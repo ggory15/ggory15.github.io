@@ -13,9 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Hello, everyone. I am a Ph.d candidate in the Dyros Lab at Seoul National University (SNU) which is working on planning and control of both humanoid and mobile manipulator.</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -32,7 +31,7 @@ theme_settings:
   github: "ggory15"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/sanghyun-kim-5b3222104/" # Full URL
   pinterest:
   reddit:
   soundcloud:
@@ -41,7 +40,7 @@ theme_settings:
   tumblr:
   twitter: 
   wordpress:
-  youtube: "ggory15"
+  youtube: 
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
