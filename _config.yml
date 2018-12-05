@@ -14,7 +14,25 @@ github_username: "ggory15"
 gplus_username:  "ggory15"
 
 # Google-analytics
-google-analytics:""
+google-analytics:
   id: "ggory15"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
