@@ -14,7 +14,7 @@ github_username: "ggory15"
 gplus_username:  "ggory15"
 
 # Google-analytics
-google-analytics:
+google-analytics:""
   id: "ggory15"
 
 exclude: ['package.json', 'src' , 'node_modules']
