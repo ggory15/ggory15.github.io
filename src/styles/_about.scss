@@ -40,6 +40,16 @@
     font-size: 75px;
   }
 }
+.user:before{
+  display: inline-block;
+  width: 1px;
+  content: '';
+}
+.user:after{
+  display: inline-block;
+  width: 1px;
+  content: '';
+}
 
 .user-details {
   text-align: center;
