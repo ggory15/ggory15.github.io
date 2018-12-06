@@ -17,6 +17,7 @@ image-slider: /assets/img/project-images/slider-images/mobile.png
 
 sliderData:
 - video: "http://www.youtube.com/embed/-lfnLhmSk3M"
+- video: "http://www.youtube.com/watch?v=-lfnLhmSk3M"
 #- video: "http://www.youtube.com/embed/K8RnMAA0rg4"
 #- video: "http://www.youtube.com/embed/4efccbsBLI4"
 #- video: "http://www.youtube.com/embed/JkTF-9RKoDM"
