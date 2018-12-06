@@ -10,7 +10,7 @@
 		<ul class="slides">
 	  		{% for item in page.sliderData limit: 5 %}
 	  		<li>
-				<iframe width="960" height="540" src="{{item.video}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+				<iframe width="960" height="540" src={{item.video}} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 			</li>  
 			{% endfor %}
 		</ul>
