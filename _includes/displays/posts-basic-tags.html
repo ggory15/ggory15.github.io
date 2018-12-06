@@ -1,3 +1,11 @@
+<!--
+    Posts Basic Tags Display
+    Brendan Thompson
+
+    A basic Posts display page with images and texts sorted by Tags
+ -->
+
+
  <div class="container">
 
 		{% for tag in site.tags %}
@@ -11,7 +19,7 @@
 			<ul class="post-display">
 				{% for post in site.posts %}
 				{% if post.tags contains tag_name %}
-				{% if post.categories contains "blog" %}
+				{% if post.categories contains "publications" %}
 			    <li class="row">
 			      	<div class="six columns">
 			    	 	<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>

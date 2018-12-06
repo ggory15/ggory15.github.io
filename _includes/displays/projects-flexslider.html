@@ -1,0 +1,16 @@
+ <div>
+	<div class="flexslider flex-design">
+		<ul class="slides">
+			  {% for page in site.categories.projects limit: 5%}
+	  		<li data-thumb="{{ page.image-slider }}">
+	  			<a href="{{ site.url}}{{ page.permalink }}">
+		    		<img src="{{ page.image-slider }}">
+		    		<hr>
+		    		<p class="flex-caption-title">{{ page.title }}</p>
+		    		<p class="flex-caption">{{ page.excerpt }}</p>
+		    	</a>
+	 		</li>
+	  		{% endfor %}
+		</ul>
+	</div>
+</div>

@@ -6,6 +6,29 @@ layout: page
   <section id="about">
     {% include about.html %}
   </section>
-  <section id="projects">
-    {% include projects.html %}
-</section>
+ 
+  <div class="container row">
+
+      <!-- Projects Display -->
+      <div class="six columns">
+          <section id="projects-featured">
+              <div class="home-title">
+                  <h3>Featured Projects</h3>
+              </div>
+              {% include displays/projects-flexslider.html %}
+              <p class="button-style"><a href="{{ site.url }}/projects">See All Projects</a></p>
+          </section>
+      </div>
+  
+      <!-- Posts Display -->
+      <div class="six columns">
+          <section id="posts-recent">
+              <div class="home-title">
+                  <h3>Publications</h3>
+              </div>
+              {% include displays/posts-flexslider.html %}
+              <p class="button-style"><a href="{{ site.url }}/publications">See All Publications</a></p>
+          </section>
+      </div>
+  
+  </div>
