@@ -1,0 +1,50 @@
+---
+published: true
+layout: post
+title: Disturbance Observer based Linear Feedback Controller for Compliant Motion of Humanoid Robot
+author: M. Kim, J-H. Kim, Sanghyun Kim, J. Sim, and J. Park
+name: 2018 International Conference on Robotics and Automation (ICRA)
+state: accepted 
+year: 2018
+vol: 
+issue: 
+pp: 
+type: International_conference
+date:   2018-05-22 7:00:00 -0400
+permalink: /ICRA2018
+categories: publications
+tags: Humanoid, Disturbance Observer
+excerpt: This article is accepted in 2018 International Conference on Robotics and Automation (ICRA).
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2018/07/ICRA_MG-1.pdf
+sourcecode: 
+---
+
+### Abstact 
+Actuator modules of humanoid robots have relatively higher joint elasticity than those of industrial robots.
+Such joint elasticity could lead to negative effects on both the tracking performance and stability for walking. Especially,
+unstable contact between the foot and ground caused by joint elasticity is a critical problem, as it decreases the stability of
+position-controlled humanoid robots. To address this problem, this paper introduces a novel control scheme for positioncontrolled
+humanoid robots by which we can obtain not only enhance compliance capability for unknown contact but also
+suppress the vibration caused by joint elasticity. To estimate the disturbance caused by external forces and modeling errors
+between the actual system and nominal system, a disturbance observer based estimator is designed at each joint. Furthermore,
+a linear feedback controller for the flexible joint model and a gravity compensator is considered to reduce vibration and
+deflection due to the joint elasticity. The proposed control scheme was implemented on our humanoid robot, DYROS-JET,
+and its performance was demonstrated by improved stability during dynamic walking and stepping on objects.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2018/07/ICRA_MG-1.pdf)
+
+
+### Multimedias
+Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+
+### See More
+Please Visit [**Humanoid project**]({{ site.url}}/humanoid-project).
+
+
+

@@ -1,0 +1,51 @@
+---
+published: true
+layout: post
+title: Robot Hand Synergy Mapping Using Multi-factor Model and EMG signal
+author: Sanghyun Kim, M. Kim, J. Lee, and J. Park
+name: International Symposium on Experimental Robotics (ISER)
+state: accepted 
+year: 2014
+vol: 
+issue: 
+pp: 
+type: International_conference
+date:   2014-06-18 7:00:00 -0400
+permalink: /ISER2014
+categories: publications
+tags:  Robot_Hand, Imitation
+excerpt: This article is accepted in 2014 International Symposium on Experimental Robotics (ISER).
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2281
+sourcecode: 
+---
+
+### Abstact 
+In this paper, it is investigated how a robot hand can be
+controlled from a human motion and an EMG signal in a tele-operation
+system. The proposed method uses a tensor to represent a multi-factor
+model relevant to different individuals and motions in multiple dimen-
+sions. Therefore, the synergies extracted by the proposed algorithm can
+account for not only various grasping motions but also the different char-
+acteristics of different people. Moreover, a synergy-level controller which
+generates motion and force of the robot is developed with postural syner-
+gies and an EMG signal. The effectiveness of the proposed new mapping
+algorithm is verified through experiments, which demonstrate better rep-
+resentation of hand motions with synergies and greater performance on
+grasping tasks than those of conventional synergy-based algorithms.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2281)
+
+
+### Multimedias
+Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+
+### See More
+Please Visit [**RobotHand project**]({{ site.url}}/Hand-project).
+
+

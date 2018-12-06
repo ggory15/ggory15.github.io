@@ -1,0 +1,46 @@
+---
+published: true
+layout: post
+title: Human Motion Imitation for Humanoid by Recurrent Neural Network
+author: M. Kim, Sanghyun Kim, and J. Park
+name: The 13th International Conference on Ubiquitous Robots and Ambient Intelligene (URAI)
+state: accepted 
+year: 2016
+vol: 
+issue: 
+pp: 
+type: International_conference
+date:   2016-08-22 7:00:00 -0400
+permalink: /URAI2018
+categories: publications
+tags: Imitation
+excerpt: This article is accepted in The 13th International Conference on Ubiquitous Robots and Ambient Intelligene (URAI).
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3175
+sourcecode: 
+---
+
+### Abstact 
+In this paper, it is investigated how a humanoid can
+be controlled from a human motion in a tele-operation system.
+The proposed method is based on Recurrent Neural Networks
+(RNN) to extract features in nonlinear sequential data. Therefore,
+our proposed RNN model can extract the features of the relation
+between a human and a robot, and generate motion in a robot
+using these features. Also, by regarding the balancing state of the
+robot, the robot’s joints corresponding the operator is modified
+for stable contact against the ground. The effectiveness of the
+proposed new mapping algorithm is verified through simulations.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3175)
+
+
+### See More
+Please Visit [**Imitation project**]({{ site.url}}/Imitation-project).
+
+

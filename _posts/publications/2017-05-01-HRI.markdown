@@ -1,0 +1,30 @@
+---
+published: true
+layout: post
+title: HRI 연구 동향 - 작업 수행을 위한 로봇 사용자 인터페이스를 중심으로
+author: Joonhyung Kimg, Sanghyun Kim, and J.Park
+name: 로봇과 인간
+state: accepted
+year: 2017
+type: Domestic_journal
+vol: 14
+pp: 17-24
+issue: 4
+date:   2017-05-01 7:00:00 -0400
+permalink: /HRI
+categories: publications
+tags: HRI
+excerpt: This article is accepted in 로봇과 인간.
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2017/12/3박재흥-특집1교-3.pdf
+sourcecode: 
+
+---
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2017/12/3박재흥-특집1교-3.pdf)
+

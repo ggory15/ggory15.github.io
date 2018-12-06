@@ -1,0 +1,41 @@
+---
+published: true
+layout: post
+title: Real-time Inverse Kinematics Technique for Controlling Redundant Avatar Arm
+author: Sanghyun Kim, J. Kim, and J. Park
+name: Ubiquitous Robots 2018 (The 15th International Conference on Ubiquitous Robots)
+state: accepted 
+year: 2018
+vol: 
+issue: 
+pp: 
+type: International_conference
+date:   2018-06-27 7:00:00 -0400
+permalink: /URAI2018
+categories: publications
+tags: Imitation
+excerpt: This article is accepted in Ubiquitous Robots 2018.
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2018/07/IK_shortver-1.pdf
+sourcecode: 
+---
+
+### Abstact 
+In this paper, a preliminary study of a real-time Inverse Kinematics (IK) technique is presented to transfer human arm postures to a humanoid avatar with 7 or more DoF arm. The proposed framework is based on Forward And Backward Reaching Inverse Kinematics (FABRIK) solver which is one of heuristic iterative methods, in order to calculate joint positions. In addition, the proposed method can calculate feasible arm postures of the avatar for treating kinematic redundancy by minimizing kinetic and potential energy. Thus, the proposed method can generate human-like motions. The proposed algorithm was implemented on avatar simulator with Virtual Reality (VR) devices and its performance was demonstrated by imitating human arm motions in real-time.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2018/07/IK_shortver-1.pdf)
+
+
+### Multimedias
+Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+
+### See More
+Please Visit [**Imitation project**]({{ site.url}}/Imitation-project).
+
+
+

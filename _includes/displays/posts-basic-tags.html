@@ -10,40 +10,146 @@
 		<h3> International Journal </h3>
 		{% for page in site.categories.publications %}
 		{% if page.type == "International_journal" %}
+			{% if page.state != "accepted" %}
 			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong></h6>
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>({{page.state}})</strong>
+				<a href="{{site.url}}{{page.permalink}}"> Summary</a>		
+				</h6>
 			</div>
+			{% else %}
+				<div class="post-display">
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, 
+				{% if page.vol != null %}
+					vol. {{page.vol}},	
+				{% endif %}
+				{% if page.issue != null %}
+					no. {{page.issue}},	
+				{% endif %}
+				{% if page.pp != null %}
+					pp. {{page.pp}},
+				{% endif %}
+				{{page.year}}.
+				{% if page.pdf != null %}
+					<a href="{{page.pdf}}"> PDF</a>
+				{% endif %}
+				{% if page.sourcecode != null %}
+					<a href="{{page.sourcecode}}"> Code</a>
+				{% endif %}		
+				<a href="{{site.url}}{{page.permalink}}"> Summary</a>						
+				</h6>
+			</div>
+			{% endif %}
 		{% endif %}
 		{% endfor %}
 		<h3> International Conference </h3>
 		{% for page in site.categories.publications %}
-		{% if page.type == "International_confernece" %}
+		{% if page.type == "International_conference" %}
+			{% if page.state != "accepted" %}
 			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong></h6>
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>({{page.state}})</strong>
+				<a href="{{site.url}}{{page.permalink}}"> Summary</a>		
+				</h6>
 			</div>
+			{% else %}
+				<div class="post-display">
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}},
+				{% if page.vol != null %}
+					vol. {{page.vol}},	
+				{% endif %}
+				{% if page.issue != null %}
+					no. {{page.issue}},	
+				{% endif %}
+				{% if page.pp != null %}
+					pp. {{page.pp}},
+				{% endif %}
+				{{page.year}}.
+				{% if page.pdf != null %}
+					<a href="{{page.pdf}}"> PDF</a>
+				{% endif %}
+				{% if page.sourcecode != null %}
+					<a href="{{page.sourcecode}}"> Code</a>
+				{% endif %}				
+				<a href="{{site.url}}{{page.permalink}}"> Summary</a>						
+				</h6>
+			</div>
+			{% endif %}
 		{% endif %}
 		{% endfor %}	
 		<h3> Domestic Journal </h3>
 		{% for page in site.categories.publications %}
 		{% if page.type == "Domestic_journal" %}
+			{% if page.state != "accepted" %}
 			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong></h6>
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>({{page.state}})</strong>
+				<a href="{{site.url}}{{page.permalink}}"> Summary </a>		
+				</h6>
 			</div>
+			{% else %}
+				<div class="post-display">
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}},
+				{% if page.vol != null %}
+					vol. {{page.vol}},	
+				{% endif %}
+				{% if page.issue != null %}
+					no. {{page.issue}},	
+				{% endif %}
+				{% if page.pp != null %}
+					pp. {{page.pp}},
+				{% endif %}
+				{{page.year}}.
+				{% if page.pdf != null %}
+					<a href="{{page.pdf}}"> PDF</a>
+				{% endif %}
+				{% if page.sourcecode != null %}
+					<a href="{{page.sourcecode}}"> Code</a>
+				{% endif %}		
+				<a href="{{site.url}}{{page.permalink}}"> Summary</a>								
+				</h6>
+			</div>
+			{% endif %}
 		{% endif %}
 		{% endfor %}	
 		<h3> Domestic Conference </h3>
 		{% for page in site.categories.publications %}
-		{% if page.type == "Domestic_confernece" %}
-			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong></h6>
-			</div>
+		{% if page.type == "Domestic_conference" %}
+			{% if page.state != "accepted" %}
+				<div class="post-display">
+					<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>({{page.state}})</strong>
+					<a href="{{site.url}}{{page.permalink}}"> Summary </a>		
+					</h6>
+				</div>
+			{% else %}
+				<div class="post-display">
+					<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}},
+					{% if page.vol != null %}
+						vol. {{page.vol}},	
+					{% endif %}
+					{% if page.issue != null %}
+						no. {{page.issue}},	
+					{% endif %}
+					{% if page.pp != null %}
+						pp. {{page.pp}},
+					{% endif %}
+					{{page.year}}.
+					{% if page.pdf != null %}
+						<a href="{{page.pdf}}"> PDF</a>
+					{% endif %}
+					{% if page.sourcecode != null %}
+						<a href="{{page.sourcecode}}"> Code</a>
+					{% endif %}	
+					<a href="{{site.url}}{{page.permalink}}"> Summary</a>									
+					</h6>
+				</div>
+			{% endif %}
 		{% endif %}
 		{% endfor %}	
 		<h3> Workshop </h3>
 		{% for page in site.categories.publications %}
 		{% if page.type == "Workshop" %}
 			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong></h6>
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong>
+				<a href="{{site.url}}{{page.permalink}}"> Summary</a>		
+				</h6>
 			</div>
 		{% endif %}
 		{% endfor %}

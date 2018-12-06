@@ -1,0 +1,40 @@
+---
+published: true
+layout: post
+title: Development of Tele-operation Interface and Stable Navigation Strategy for Humanoid Robot Driving
+author: S. Shin, M. Kim, J. Ahn, Sanghyun Kim, J. Park
+name: Journal of Institute of Control, Robotics, and Systems
+state: accepted 
+year: 2016
+vol: 22
+issue: 11
+pp: 904-911
+type: Domestic_journal
+date:   2016-11-01 7:00:00 -0400
+permalink: /DRC_drive
+categories: publications
+tags: DRC_Finals, Humanoid
+excerpt: This article is accepted in Journal of Institute of Control, Robotics, and Systems.
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.cafe24.com/paper/jicrs2016.pdf
+sourcecode: 
+---
+
+### Abstact 
+This paper presents a novel driving system by the humanoid robot to drive a vehicle in disaster response situations. To enhance robot’s capability for substituting human activities in responding to natural and man-made disaster, the one of prerequisite skills for the rescue robot is the mounted mobility to maneuver a vehicle safely in disaster site. Therefore, our driving system for the humanoid is developed in order to steer a vehicle through unknown obstacles even under poor communication conditions such as time-delay and black-out. Especially, the proposed system includes a tele-manipulation interface and stable navigation strategies. First, we propose a new type of path estimation method to overcome limited communication. Second, we establish navigation strategies when the operator cannot recognize obstacles based on Dynamic Window Approach. The effectiveness of the proposed developments is verified through simulation and experiments, which demonstrate suitable system for driving a vehicle in disaster response. 
+
+### PDF 
+[**PDF file**](http://dyros.cafe24.com/paper/jicrs2016.pdf)
+
+
+### Multimedias
+Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+
+### See More
+Please Visit [**DRC project**]({{ site.url}}/DRC-project).
+
+

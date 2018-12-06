@@ -1,0 +1,40 @@
+---
+published: true
+layout: post
+title: Extracting Postural Synergies Using Grasping Taxonomy 
+author: Sanghyun Kim, M. Kim, and J. Park
+name: The 9th Korea Robotics Society Annual Conference (KROC)
+state: accepted
+year: 2014
+type: Domestic_conference
+date:   2014-06-21 7:00:00 -0400
+permalink: /kroc142
+categories: publications
+tags: Robot_Hand, Imitation
+excerpt: This article is accepted in the 9th Korea Robotics Society Annual Conference (KROC).
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2282
+sourcecode: 
+
+---
+
+### Abstract
+파지 자세들 사이의 상관관계를 이용하여 사용자의 손의 자세를 표현하는 시너지기법은 고차원의 데이터를 저차원화하
+여 로봇 핸드의 제어에 용이하다는 점에서 각광받고 있다. 본 논문에서는, 파지 분류체계를 이용하여 저차원화시 발생하
+는 오차를 최소화 하는 시너지 추출방법에 대해 논한다. 제안된 방법은 기존 시너지 추출 알고리즘이 모든 손 자세에서
+시너지를 추출하는 것과 달리, 파지 분류체계를 기반으로 하여 파지 분류체계 안의 각 그룹들마다 시너지를 추출하여 준
+다. 사용자가 손 동작을 하는 동안, PCA-LDA 분류기는 사용자의 손 자세의 파지 종류를 분류하여 주기 때문에 해당 파
+지 종류가 속한 그룹의 시너지를 사용하여 인간의 손의 움직임을 묘사할 수 있다. 본 논문에서 제안한 알고리즘은 모션
+캡쳐 시스템과 동역학 기반 시뮬레이션을 통하여 확인하였으며, 기존의 시너지 기반 알고리즘을 사용한 경우와 비교하였
+을 때 사람의 손 자세를 더 잘 묘사함을 확인 할 수 있었다.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2282)
+
+### See More
+Please Visit [**RobotHand-project**]({{ site.url}}/Hand-project).
+

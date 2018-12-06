@@ -1,0 +1,38 @@
+---
+published: true
+layout: post
+title: Estimation of Hand Posture and Grasping Force Using Surface EMG
+author: J. Lee, M. Kim, Sanghyun Kim, and J. Park
+name: The 9th Korea Robotics Society Annual Conference (KROC)
+state: accepted
+year: 2014
+type: Domestic_conference
+date:   2014-06-21 7:00:00 -0400
+permalink: /kroc141
+categories: publications
+tags: Robot_Hand, EMG
+excerpt: This article is accepted in the 9th Korea Robotics Society Annual Conference (KROC).
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2295
+sourcecode: 
+
+---
+
+### Abstract
+인간의 손을 이용한 로봇 핸드의 원격조작을 원활히 수행하기 위해서, 인간의 의도를 파악하여 로봇 핸드에 전송하는
+알고리즘의 구축은 필수적이다. 이 때 인간의 의도는 손의 파지 자세 및 파지력 추정을 통하여 파악 할 수 있다. 본 논
+문에서는 여러 개의 표면 근전도 센서를 사용하여 각각의 파지자세에서 발현되는 근육 활성도를 통한 전완근의 근육 시
+너지를 추출한다. 각 자세에서 추출한 근육 시너지를 기반으로 전처리되지 않은 임의의 파지자세를 추정하고 해당 파지
+자세에서 파지력을 추정하는 방법을 제안한다. 실험을 통하여 다양한 파지자세에서의 근육 시너지를 추출하였고 이를 통
+해 파지자세 추정, 파지력 추정 성능을 검증하였다.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2295)
+
+### See More
+Please Visit [**RobotHand-project**]({{ site.url}}/Hand-project).
+

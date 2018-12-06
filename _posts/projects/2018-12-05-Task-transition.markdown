@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Mobile Manipulation using HQP
+title: Task Transition Algorithms
 author: Sanghyun Kim
-date:   2018-12-06 7:00:00 -0400
-permalink: /HQP-project
+date:   2018-12-05 7:00:00 -0400
+permalink: /tasktransition-project
 categories: projects
-tags: HQP, mobile-robot
-excerpt: We are developing the controller of the dual-arm mobile manipulator by using HQP. In this study, we suggests the task transition algorithm to handle the discontinuity of the control input.
+tags: HQP
+excerpt: In this study, we suggests the task transition algorithm to handle the discontinuity of the control input.
 
 github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/

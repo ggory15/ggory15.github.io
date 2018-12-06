@@ -1,0 +1,38 @@
+---
+published: true
+layout: post
+title: Team SNU's Control Strategies to Enhancing Robot's Capability- Lessons from the DARPA Robotics Challenge Finals 2015 
+author: Sanghyun Kim et al
+name: Journal of Field Robotics
+state: accepted 
+year: 2017
+vol: 34
+pp: 359-380
+issue: 2
+type: International_journal
+date:   2017-05-05 7:00:00 -0400
+permalink: /DRC-field
+categories: publications
+tags: DRC_Finals, Humanoid
+excerpt: This article is accepted in Journal of Field Robotics. 
+
+image: /assets/img/post-images/slider-images/HQP_icra.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+
+pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3231
+sourcecode: 
+---
+
+### Abstact 
+This paper presents the technical approaches used and experimental results obtained by Team SNU (Seoul National University) at the 2015 DARPA Robotics Challenge (DRC) Finals. Team SNU is one of the newly qualified teams, unlike 12 teams who previously participated in the December 2013 DRC Trials. The hardware platform THORMANG, which we used, has been developed by ROBOTIS. THORMANG is one of the smallest robots at the DRC Finals. Based on this platform, we focused on developing software architecture and controllers in order to perform complex tasks in disaster response situations and modifying hardware modules to maximize manipulability. Ensuring stability and modularization are two main keywords in the technical approaches of the architecture. We designed our interface and controllers to achieve a higher robustness level against disaster situations. Moreover, we concentrated on developing our software architecture by integrating a number of modules to eliminate software system complexity and programming errors. With these efforts on the hardware and software, we successfully finished the competition without falling, and we ranked 12th out of 23 teams. This paper is concluded with a number of lessons learned by analyzing the 2015 DRC Finals. 
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3231)
+
+### Multimedias
+Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+
+### See More
+Please Visit [**DRC project**]({{ site.url}}/DRC-project).
+
