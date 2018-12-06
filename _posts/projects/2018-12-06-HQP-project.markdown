@@ -45,6 +45,7 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 	- VKC based dual-arm manipulation algorithm 
 
 ### Experimental Results
+Videos can't be represented in mobile. Please, visit this website in PC, if you want to see these videos. 
 
 {% include flexslider_video.html %}
 
