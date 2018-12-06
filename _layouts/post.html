@@ -6,16 +6,17 @@ layout: default
 
 	<!-- Header Image -->
 	<div class="six columns post-layout-header-image">
+		<br>
+		<br>
+		<br>
 		<img src="{{ site.url }}{{ page.image-slider }}" alt="{{ page.imageAlt }}">
 	</div>
-
 	<!-- Header Info -->
 	<div class="six columns post-layout-header-info">
-
 		<!-- General Info -->
-		<h1><span style="color: #ffffff;">{{ page.title }}</span></h1>
+		<h2><span style="color: #ffffff;">{{ page.title }}</span></h2>
 		<p><strong>{{ page.excerpt }}</strong></p>
-		<p><strong>{{ page.author }}</strong></p>
+		<!-- <p><strong>{{ page.author }}</strong></p> -->
 		<p><strong><time datetime="{{ page.date | date: "%-d %b %y" }}">{{ page.date | date: "%-d %b %y" }}</time></strong></p>
 
 		<!-- Tags -->

@@ -9,11 +9,11 @@ tags: HQP
 excerpt: We are developing the controller of the dual-arm mobile manipulator by using HQP. In this study, we suggests the task transition algorithm to handle the discontinuity of the control input.
 
 github: https://github.com/ggory15/HQP_DualArmMobile
-#external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
+external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
 image: /assets/img/project-images/awesome-checkin/checkin2-screensaver.png
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/slider-images/mobile_mani_slide.png
+image-slider: /assets/img/project-images/slider-images/mobile.png
 
 sliderData:
 - video: "http://www.youtube.com/embed/-lfnLhmSk3M"
@@ -45,7 +45,7 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 	- VKC based dual-arm manipulation algorithm 
 
 ### Experimental Results
-Videos can't be represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
 
 {% include flexslider_video.html %}
 
