@@ -45,20 +45,6 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 ### Experimental Results
 {% include projects/HQP-project_video.html %}
 
-<div class="row projects-display">
-    <div class="six columns images">
-        <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/a1Yp0_OP7N0" frameborder="0" allowfullscreen></iframe>
-        </div>
-    </div>
-
-    <div class="six columns">
-        <h5> Momentum Observer Demo </h5>
-        <li> Detecting disturbances using momentum based observer </li>
-        <li> Compliance Control </li>
-        </div>
-</div>
-
 ### TODO
 + Dual Arm Manipulation
 	- Although it is already done in simulation, we want to buy one more manipulator! (Give me the money.)
