@@ -14,9 +14,9 @@ tags: Robot_Hand, EMG
 excerpt: This article is summitted in Journal of Bionic Engineering. 
 github: https://github.com/ggory15/EMG_Tensor
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image:  /assets/img/post-images/slider-images/Bionic20181.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/Bionic20181.png
 
 ---
 
