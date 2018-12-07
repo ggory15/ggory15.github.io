@@ -11,7 +11,7 @@ issue: 11
 pp: 904-911
 type: Domestic_journal
 date:   2016-11-01 7:00:00 -0400
-permalink: /DRC_drive
+permalink: /IJIRS2016
 categories: publications
 tags: DRC_Finals, Humanoid
 excerpt: This article is accepted in Journal of Institute of Control, Robotics, and Systems.

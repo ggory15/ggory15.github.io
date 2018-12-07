@@ -43,6 +43,6 @@ You can see the source codes in my [**git repository**](https://github.com/ggory
 The source codes will be operated in Matlab 
 
 ### See More
-Please Visit [**RobotHand project**]({{ site.url}}/Hand-project).
+Please Visit [**RobotHand project**]({{ site.url}}/robothand-project).
 
 

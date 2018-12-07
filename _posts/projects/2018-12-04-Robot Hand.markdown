@@ -6,7 +6,7 @@ date:   2018-12-04 7:00:00 -0400
 permalink: /robothand-project
 categories: projects
 tags: HQP
-excerpt: In this study, we suggests the controller for full-actuacted robot hand using tensor algebra and postural synergies.
+excerpt: In this project, I want to figure out how to imitate human hand motion and force for the robot hand. 
 
 github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
@@ -15,39 +15,111 @@ image: /assets/img/project-images/3.hand/hand.png
 imageAlt: HQP logo
 image-slider: /assets/img/project-images/3.hand/hand.png
 
-sliderData:
-- video: "http://www.youtube.com/embed/-lfnLhmSk3M"
-- video: http://www.youtube.com/embed/K8RnMAA0rg4
-- video: http://www.youtube.com/embed/4efccbsBLI4
-- video: http://www.youtube.com/embed/JkTF-9RKoDM
-
 ---
 ### Overview
-Mobile robot and manipulator have a long history on their development. Combining these two robots, mobile manipulator has the potential of versatile skills. It has a high dimensional state space. However, combining these two robots causes many problems. First of all, the control system becomes complicated. Most manipulators actuate with the assumption that their basement is fixed. On the other hand, the mobile base and the manipulator give dynamic effects to each other. Therefore, we should consider the effects when we control the robot. Secondly, the target control accuracy would be lower than a fixed manipulator. As containing high dimensional state space, it inevitably leads to uncertainty (especially in mobile part).
+A robot hand can provide a great deal of manipulation capability to its user in a
+tele-manipulation system. The method of controlling the robot hand with human
+hand motion is one of the most important parts of such a system, as a human
+hand can perform many types of operations given its number of joints, whereas
+a robot hand is limited in terms of motion compared to that of human hand
+motion. Thus, the functionality and controllability of dexterous robot hands
+have been investigated in an effort to overcome the difficulty stemming from the
+kinematic dissimilarity between robot and human hands.
 
-To handle these problems, we are focusing on controlling and planning this mobile manipulator.
+To handle this problem, we developed the algorithm for tele-operation with tensor algebra. First, we proposed the algorithm for extracting postural synergies which can account for not only grasping motions but also individual characteristics. Second, we studied the algorithm for predicting the grasping force of the human using sEMG. 
 
 ### Experimental Equipments
-The robot consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
+We used the full-actuacted robot hand, [**Allegro Hand**](http://wiki.wonikrobotics.com/AllegroHandWiki/index.php/Allegro_Hand).
+The specification of this robot is as follow.
 
-It has a powerful computation unit to solve complicated whole-body dynamics and plan motions in high dimensional state space. The specification is described below.
-+ CPU: Intel i7-7700K
-+ RAM: 16 GB
-+ Storage (SSD): 500 GB
-+ OS: Ubuntu 16.04 (with preempt_rt kernel)
+<div class="row projects-display">
+	<div class="six columns">
+		<div class="images">
+			<img alt="Awesome Check In" height="100" src="{{ site.url }}/assets/img/project-images/3.hand/allegro.png">
+		</div>
+	</div>
+	<div class="six columns">
+		<h5> Allegro Hand</h5>
+		<li> 16-DoFs torque controlled robot </li>
+		<li> Each finger has 4actuactors</li>
+		<li> CAN protocole in Ubuntu 14.04/16.04, Windows </li>
+	</div>
+</div>
+<div class="row projects-display">
+	<div class="six columns">
+		<h5> Motion Capture Studio</h5>
+		<li> 24 Stereo Cameras with Vicon </li>
+		<li> <a href="https://www.delsys.com/products/wireless-emg/"> sEMG Device </a> </li>
+		<li> TCP/IP system </li>
+	</div>
+	<div class="six columns">
+		<div class="images">
+			<img alt="Awesome Check In" height="100" src="{{ site.url }}/assets/img/project-images/3.hand/allegro.png">
+		</div>
+	</div>
+</div>
 
 ### Algorithms
-+ Controller
-	- Wholebody controller based on the HQP controller
-	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm)
-+ Planner
-	- Basic RRT(-connect) algorithm
-	- VKC based dual-arm manipulation algorithm 
++ Synergies Level Controller 
+	- We proposed the controller for imitation human motions using synergies.
+	- The proposed method uses a tensor to represent a multi-factor model relevant to different individuals and motions in multiple dimensions.
+    - The effectiveness of the proposed new mapping algorithm is verified through experiments, which demonstrate better representation of hand motions with synergies and greater performance on grasping tasks than those of conventional synergy-based algorithms.
+	- See also [**ISER2014**]({{ site.url}}/ISER2014)
+
++ Grasping Force Prediction
+	- We proposed the grasping force prediction algorithm with tensor algebra.
+	- Our algorithm can estimate the grasping force with various arm postures. To the best of our knowledge, this is first algorithm to handle the grasping force prediction with various arm postures.
+	- See also [**JBEN2018**]({{ site.url}}//EMG-Force)
+
+### Why we used Tensor?
++ Efficient data reduction algorithm
+	- Singular Vector Decomposition (SVD) which is a matrix factorization is good data reduction algorithm.
+	- Similarly, in the tensor space, the Tucker decomposition can decompose a nth order tensor. Therefore, it is easy to reconstruct the space with feature vectors.
+	- Below figure is overview of our prediction algorithm using Tucker decomposition.
+		<div class="images">
+			<img alt="JUCE" src="{{ site.url }}/assets/img/project-images/3.hand/emg_overview.png">
+		</div>
 
 ### Experimental Results
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QzGgV9KHaZI" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="six columns">
+        <h5> Motion and Force Mapping </h5>
+        <li> As you can see, we validated the proposed algorithm with various experiments. </li>
+		<li> We used the motion capture studio to track human hand motions. </li>
+		<li> Also, we used the wireless sEMG system, as metioned above. </li>		
+	</div>
+</div>
 
-{% include flexslider_video.html %}
-
-We developed the controller for nonholonomic mobile manipulator using the HQP framework. In addition, we developed a novel approach to generate continuous control input during task transition. These videos show the proposed algorithm can be applied at various scenarios.
-
+<div class="row projects-display">
+	<div class="six columns">
+		<h5> Grasping Force Prediction Test </h5>
+		<li> Our algorithm can predict grasping forces. </li>
+		<li> As you can see, the result is more accurate than <a href=""> the reference algorithm. </a> </li>
+	</div>
+	<div class="six columns images">
+		<div class="flexslider">
+			<ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/project-images/3.hand/proposed_result.png">
+					</div>
+				</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/project-images/3.hand/modi_result.png">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/project-images/3.hand/result22.png">
+					</div>
+				</li>  
+			</ul>
+		</div>
+	</div>
+</div>

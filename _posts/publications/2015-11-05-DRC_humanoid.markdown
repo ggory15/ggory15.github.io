@@ -11,7 +11,7 @@ issue:
 pp: 
 type: International_conference
 date:   2015-11-05 7:00:00 -0400
-permalink: /DRC-humanoid
+permalink: /HUMANOID2015
 categories: publications
 tags: DRC_Finals, Humanoid
 excerpt: This article is accepted in 2015 IEEE-RAS International Conference on Humanoid Robots (Humanoids 2015). 

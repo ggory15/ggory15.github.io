@@ -3,51 +3,147 @@ layout: post
 title: DRC Finals 2015
 author: Sanghyun Kim
 date:   2018-12-03 7:00:00 -0400
-permalink: /HQP-project
+permalink: /DRC-Finals
 categories: projects
 tags: HQP
 excerpt: We particaped in DRC Finals 2015, as Team SNU. I am student leader of our team.
 
-github: https://github.com/ggory15/HQP_DualArmMobile
-external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
+external-website: http://dyros.snu.ac.kr/drc-comp/
 
 image: /assets/img/project-images/4.drc/main.jpg
 imageAlt: HQP logo
 image-slider: /assets/img/project-images/4.drc/main.jpg
 
-sliderData:
-- video: "http://www.youtube.com/embed/-lfnLhmSk3M"
-- video: http://www.youtube.com/embed/K8RnMAA0rg4
-- video: http://www.youtube.com/embed/4efccbsBLI4
-- video: http://www.youtube.com/embed/JkTF-9RKoDM
-
 ---
 ### Overview
-Mobile robot and manipulator have a long history on their development. Combining these two robots, mobile manipulator has the potential of versatile skills. It has a high dimensional state space. However, combining these two robots causes many problems. First of all, the control system becomes complicated. Most manipulators actuate with the assumption that their basement is fixed. On the other hand, the mobile base and the manipulator give dynamic effects to each other. Therefore, we should consider the effects when we control the robot. Secondly, the target control accuracy would be lower than a fixed manipulator. As containing high dimensional state space, it inevitably leads to uncertainty (especially in mobile part).
+Team SNU (Seoul National University) is composed of three subgroups: Dynamic Robotic Systems Lab (DYROS Lab), Machine Intelligence & Pattern Analysis Lab (MIPAL Lab), and SimLab (private company). Team SNU uses THORMANG developed by ROBOTIS.
 
-To handle these problems, we are focusing on controlling and planning this mobile manipulator.
+DYROS lab is in charge of control aspect of the robot and overall team management for DRC. The lab develops advanced intelligent robotic systems and their control algorithms so that they can interact with humans in our human environment. The main research areas are whole-body multi-contact control, robot–environment interaction, biomechanics, human motion analysis, compliant actuators, and robotic arts.http://dyros.snu.ac.kr
+
+MIPAL works on perception part of the robot for Team SNU. MIPAL at Seoul National University studies a broad spectrum of subjects relevant to pattern recognition and machine learning using statistical analysis. MIPAL’s main area of interest includes object recognition, object detection, pattern classification, statistical data analysis, Image processing and Computer vision. http://mipal.snu.ac.kr
+
+SimLab provides the software framework and interface to the robot for Team SNU. The company makes the complete software and hardware solutions for the robotics research, development, and educational communities. SimLab’s products include RoboticsLab™(robotic system modeling tools and real-time dynamics simulation SDK) and RealtimeRobotics™(real-time robot control SDK), as well as robot HW platforms: Allegro Dog/Arm/Hand™(quadruped, manipulator, and 16-DOF robotic hand).http://www.simlab.co.kr
 
 ### Experimental Equipments
-The robot consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
+<div class="row projects-display">
+	<div class="six columns images">
+		<div class="flexslider">
+			<ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="http://dyros.snu.ac.kr/wp-content/uploads/2014/09/main-1-01.jpg">
+					</div>
+				</li>
+				<li>  
+					<div class="six columns images">
+						<img alt="JUCE" src="http://dyros.snu.ac.kr/wp-content/uploads/2016/07/IMG_5480-609x1024.png">
+					</div>
+				</li>  
+			</ul>
+		</div>
+	</div>	
+	<div class="six columns">
+		<h5> THORMANG </h5>
+		<li> Height: 4ft 10in (1.47m) </li>
+		<li> Weight: 108lbs (49kg) </li>
+		<li> Wingspan: 77in (1.95m) </li>
+		<li> Position controlled actuactor, DYNAMICXEL </li>
+		<li> After finshing DRC Finals, we enhanced this robot's structure and changed the name as <a href="http://dyros.snu.ac.kr/wp-content/uploads/2016/07/IMG_5480-609x1024.png"> DYROS-JET </a>. </li>
+	</div>
+</div>
 
-It has a powerful computation unit to solve complicated whole-body dynamics and plan motions in high dimensional state space. The specification is described below.
-+ CPU: Intel i7-7700K
-+ RAM: 16 GB
-+ Storage (SSD): 500 GB
-+ OS: Ubuntu 16.04 (with preempt_rt kernel)
 
 ### Algorithms
 + Controller
-	- Wholebody controller based on the HQP controller
-	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm)
-+ Planner
-	- Basic RRT(-connect) algorithm
-	- VKC based dual-arm manipulation algorithm 
+	- Analytic Inverse Kinematics (IK) Based Lower body controller 
+	- Jacobian based upper body controller
+	- Impedance controller
+	- See also [**FIELD2017**]({{ site.url}}/FIELD2017), [**HUMANOID2015**]({{ site.url}}/HUMANOID2015}), and [**IJIRS2016**]({{site.url}}/IJIRS2016)
+
 
 ### Experimental Results
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
-
-{% include flexslider_video.html %}
-
-We developed the controller for nonholonomic mobile manipulator using the HQP framework. In addition, we developed a novel approach to generate continuous control input during task transition. These videos show the proposed algorithm can be applied at various scenarios.
-
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/aWpyfKkbzf0" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="six columns">
+        <h5> Results at the DARPA Robotics Challenge Finals 2015 </h5>
+        <li> We obtained 4 points for 58 min and our team finished in 12th place out of 23 teams. We used up most of the performance time for walking, because the DSP time during walking was greatly increased due to the uneven ground surface in the stadium. </li>
+		<li> However, the manipulating time 15 for the driving, th door, the valve, and the wall were 00:01:26 (5th), 00:18:16 (19th), 00:01:01 (3rd), and 00:06:40 (1st), respectively. Also, Team SNU’s robot successfully finished the final without falling, while the bipedal robots used by many of the other teams fell down on the ground. </li>
+        <li> Our team placed in the top rank of 4 teams who used the THORMANG platform despite the lack of developing time. </li>
+        </div>
+</div>
+<div class="row projects-display">
+	<div class="six columns">
+        <h5> Lab Test #1 - Driving </h5>
+        <li> We made the viewer for seeing top-view.		
+		</li>
+	</div>
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_X1akUrcZw" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/K7mIsJ68DoU" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+	<div class="six columns">
+        <h5> Lab Test #2 - Egress </h5>
+        <li> We didn't try this motion in the competition.		
+		</li>
+	</div>
+</div>
+<div class="row projects-display">
+	<div class="six columns">
+        <h5> Lab Test #3 and #4 - Door and Valve </h5>
+        <li> with RANSAC algorithm.		
+		</li>
+	</div>
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/sGygMAmyrdo" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/iGJuDUlzrqs" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+	<div class="six columns">
+        <h5> Lab Test #5 - Wall </h5>
+        <li> We developed the special hand to operate the drill.		
+		</li>
+	</div>
+</div>
+<div class="row projects-display">
+	<div class="six columns">
+        <h5> Lab Test #6 - Debris </h5>
+        <li> We didn't try this motion in the competition.			
+		</li>
+	</div>
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/EsAEBpE1PWg" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRXsHKQf_s" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+	<div class="six columns">
+        <h5> Lab Test #7 - Stair </h5>
+        <li> We made whole-body motion!	
+		</li>
+	</div>
+</div>

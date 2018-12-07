@@ -22,7 +22,7 @@ Mobile robot and manipulator have a long history on their development. Combining
 To handle these problems, we are focusing on controlling and planning this mobile manipulator.
 
 ### Experimental Equipments
-The robot consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
+The system consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
 
 It has a powerful computation unit to solve complicated whole-body dynamics and plan motions in high dimensional state space. The specification is described below.
 + CPU: Intel i7-7700K
@@ -46,28 +46,39 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 + Controller
 	- Wholebody controller based on the HQP controller
 	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm) 
-	(See also [**Transition Project**]({{ site.url}}/tasktransition-project) )
-	- Momentum Based observer
+	- Momentum based observer
 
 + Planner
 	- Basic BiRRT(-connect) algorithm
 	- VKC based dual-arm manipulation algorithm 
 
 ### Experimental Results
-
 <div class="row projects-display">
     <div class="six columns images">
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/K8RnMAA0rg4" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-lfnLhmSk3M" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 
+    <div class="six columns">
+        <h5> Task Transition Algorithm </h5>
+        <li> See also <a href="{{ site.url}}/tasktransition-project"> Transition Project </a> </li>
+        </div>
+</div>
+
+<div class="row projects-display">
     <div class="six columns">
         <h5> Coffee Delivery Demo #1 </h5>
         <li> Making trajectory by using BiRRT </li>
         <li> Controlling by Whole-body HQP controller </li>
         <li> Task Transition by considering multiple tasks </li>
         </div>
+
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/K8RnMAA0rg4" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
 </div>
 <div class="row projects-display">
     <div class="six columns images">
@@ -84,29 +95,37 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
         </div>
 </div>
 <div class="row projects-display">
+    <div class="six columns">
+        <h5> Momentum Observer Demo </h5>
+        <li> Detecting disturbances using momentum based observer </li>
+        <li> Compliance Control </li>
+        </div>
+        
     <div class="six columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JkTF-9RKoDM" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 
-    <div class="six columns">
-        <h5> Momentum Observer Demo </h5>
-        <li> Detecting disturbances using momentum based observer </li>
-        <li> Compliance Control </li>
-        </div>
+
 </div>
 
 ### TODO
 + Dual Arm Manipulation
-	- Although it is already done in simulation, we want to buy one more manipulator! (Give me the money.)
+	- Although it is already done in simulation, we cannot experiments with the real robot. We want to buy one more manipulator! (Give me the money.)
 <div class="row projects-display">
     <div class="four columns">
         <div class="images">
             <img alt="JUCE" src="{{ site.url }}/assets/img/project-images/1.mobile/dualarm.png">
         </div>
      </div>
+    <div class="six columns">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/JkTF-9RKoDM" frameborder="0" allowfullscreen></iframe>
+        </div>
+     </div>
 </div>
+
 
 + More powerful planner 
 	- (DDP? )

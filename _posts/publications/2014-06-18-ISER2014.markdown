@@ -28,14 +28,10 @@ sourcecode:
 In this paper, it is investigated how a robot hand can be
 controlled from a human motion and an EMG signal in a tele-operation
 system. The proposed method uses a tensor to represent a multi-factor
-model relevant to different individuals and motions in multiple dimen-
-sions. Therefore, the synergies extracted by the proposed algorithm can
-account for not only various grasping motions but also the different char-
-acteristics of different people. Moreover, a synergy-level controller which
-generates motion and force of the robot is developed with postural syner-
-gies and an EMG signal. The effectiveness of the proposed new mapping
-algorithm is verified through experiments, which demonstrate better rep-
-resentation of hand motions with synergies and greater performance on
+model relevant to different individuals and motions in multiple dimensions. Therefore, the synergies extracted by the proposed algorithm can
+account for not only various grasping motions but also the different characteristics of different people. Moreover, a synergy-level controller which
+generates motion and force of the robot is developed with postural synergies and an EMG signal. The effectiveness of the proposed new mapping
+algorithm is verified through experiments, which demonstrate better representation of hand motions with synergies and greater performance on
 grasping tasks than those of conventional synergy-based algorithms.
 
 ### PDF 
@@ -43,9 +39,15 @@ grasping tasks than those of conventional synergy-based algorithms.
 
 
 ### Multimedias
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+<div class="row projects-display">
+    <!-- <div class="six columns images"> -->
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QzGgV9KHaZI" frameborder="0" allowfullscreen></iframe>
+        </div>
+    <!-- </div> -->
+</div>
 
 ### See More
-Please Visit [**RobotHand project**]({{ site.url}}/Hand-project).
+Please Visit [**RobotHand project**]({{ site.url}}/robothand-project).
 
 

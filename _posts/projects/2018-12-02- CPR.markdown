@@ -3,51 +3,50 @@ layout: post
 title: CPR Robot 
 author: Sanghyun Kim
 date:   2018-12-02 7:00:00 -0400
-permalink: /HQP-project
+permalink: /CPR-project
 categories: projects
 tags: HQP
 excerpt: We developed CPR robot. We tested our robot in various experiments with pig. 
-
-github: https://github.com/ggory15/HQP_DualArmMobile
-external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
 image: /assets/img/project-images/5.cpr/main.png
 imageAlt: HQP logo
 image-slider: /assets/img/project-images/5.cpr/main.png
 
-sliderData:
-- video: "http://www.youtube.com/embed/-lfnLhmSk3M"
-- video: http://www.youtube.com/embed/K8RnMAA0rg4
-- video: http://www.youtube.com/embed/4efccbsBLI4
-- video: http://www.youtube.com/embed/JkTF-9RKoDM
-
 ---
 ### Overview
-Mobile robot and manipulator have a long history on their development. Combining these two robots, mobile manipulator has the potential of versatile skills. It has a high dimensional state space. However, combining these two robots causes many problems. First of all, the control system becomes complicated. Most manipulators actuate with the assumption that their basement is fixed. On the other hand, the mobile base and the manipulator give dynamic effects to each other. Therefore, we should consider the effects when we control the robot. Secondly, the target control accuracy would be lower than a fixed manipulator. As containing high dimensional state space, it inevitably leads to uncertainty (especially in mobile part).
+We made an application of a robot manipulator to perform Cardiopulmonary resuscitation(CPR) in emergency situations.
+CPR is one of the most important treatments which serves to save patients in cardiac arrest. The proposed robot CPR system attempts to
+overcome the limitations of current CPR methods in two aspects. First, it can provide much more consistent CPR than humans in terms of
+strength and timing. Second, biological data of a patient can be used to determine the best compression point during CPR. The feasibility of the proposed system is demonstrated through experiments: one simulation on a mannequin and two animal tests. It is also expected that this robotic CPR system can be a good platform to investigate many aspects of CPR methods and guidelines with accurate measurements and actions.
 
-To handle these problems, we are focusing on controlling and planning this mobile manipulator.
+We collaborated with Seoul National University, College of Medicine.
 
-### Experimental Equipments
-The robot consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
+### Algorithms Overview
+<div class="row projects-display">
+	<div class="six columns">
+		<div class="images">
+			<img alt="Awesome Check In" height="100" src="{{ site.url }}/assets/img/project-images/5.cpr/block3.jpg">
+		</div>
+	</div>
+	<div class="six columns">
+		<h5> Proposed system</h5>
+		<li> Detection of end-tidal carbon dioxide and blood pressure </li>
+		<li> 6-DoFs robot manipulator </li>
+		<li> See also <a href="{{ site.url }}/ISER2016"> ISER2016 </a> </li>
+	</div>
+</div>
 
-It has a powerful computation unit to solve complicated whole-body dynamics and plan motions in high dimensional state space. The specification is described below.
-+ CPU: Intel i7-7700K
-+ RAM: 16 GB
-+ Storage (SSD): 500 GB
-+ OS: Ubuntu 16.04 (with preempt_rt kernel)
-
-### Algorithms
-+ Controller
-	- Wholebody controller based on the HQP controller
-	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm)
-+ Planner
-	- Basic RRT(-connect) algorithm
-	- VKC based dual-arm manipulation algorithm 
 
 ### Experimental Results
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
-
-{% include flexslider_video.html %}
-
-We developed the controller for nonholonomic mobile manipulator using the HQP framework. In addition, we developed a novel approach to generate continuous control input during task transition. These videos show the proposed algorithm can be applied at various scenarios.
-
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/D9saZERvzf8" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="six columns">
+        <h5> Experiments with pigs </h5>
+        <li> Twenty nine experiments were conducted. Sixteen swine were tested by manual CPR and thirteen were tested by the robot CPR. </li>
+		<li>As noted in the results of the robot CPR assessment, the expected advantages include not only a high resuscitation rate in clinical practice but also a reduced cost in terms of manpower. </li>
+        </div>
+</div>

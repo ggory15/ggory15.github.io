@@ -11,7 +11,7 @@ pp: 359-380
 issue: 2
 type: International_journal
 date:   2017-05-05 7:00:00 -0400
-permalink: /DRC-field
+permalink: /FIELD2017
 categories: publications
 tags: DRC_Finals, Humanoid
 excerpt: This article is accepted in Journal of Field Robotics. 

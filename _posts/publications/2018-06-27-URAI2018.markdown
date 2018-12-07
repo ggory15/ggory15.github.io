@@ -11,7 +11,7 @@ issue:
 pp: 
 type: International_conference
 date:   2018-06-27 7:00:00 -0400
-permalink: /URAI2018
+permalink: /UR2018
 categories: publications
 tags: Imitation
 excerpt: This article is accepted in Ubiquitous Robots 2018.
