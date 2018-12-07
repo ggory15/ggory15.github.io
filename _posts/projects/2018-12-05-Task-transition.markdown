@@ -102,12 +102,12 @@ The robots with high Degrees of Freedom (DoF) such as humanoids and mobile manip
 			<ul class="slides">
 	  			<li>
 					<div class="video-container">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/-lfnLhmSk3M" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/WOf4vYtKLyw" frameborder="0" allowfullscreen></iframe>
 					</div>
         		</li>
 				<li>  
 					<div class="video-container">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/-lfnLhmSk3M" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/EOsXOvwmZxU" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</li>  
 			</ul>
@@ -132,12 +132,12 @@ The robots with high Degrees of Freedom (DoF) such as humanoids and mobile manip
 			<ul class="slides">
 	  			<li>
 					<div class="video-container">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/-lfnLhmSk3M" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/HM2qIKLe_uY" frameborder="0" allowfullscreen></iframe>
 					</div>
         		</li>
 				<li>  
 					<div class="video-container">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/-lfnLhmSk3M" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/SHbPYLQxtnw" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</li>  
 			</ul>
