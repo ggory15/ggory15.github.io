@@ -16,9 +16,9 @@ categories: publications
 tags: Humanoid, Disturbance Observer
 excerpt: This article is accepted in 2018 International Conference on Robotics and Automation (ICRA).
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/ICRA2018.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/ICRA2018.png
 
 pdf: http://dyros.snu.ac.kr/wp-content/uploads/2018/07/ICRA_MG-1.pdf
 sourcecode: 

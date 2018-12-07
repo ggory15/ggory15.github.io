@@ -1,4 +1,4 @@
----
+﻿---
 published: true
 layout: post
 title: A Unified Framework for Overcoming Motion Constraints of Robots Using Task Transition Algorithm
@@ -16,9 +16,9 @@ categories: publications
 tags: Task_Transition
 excerpt: This article is accepted in Journal of Korea Robotics Society. 
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/KROS2018.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/KROS2018.png
 
 pdf: http://dyros.snu.ac.kr/wp-content/uploads/2018/07/00013_002_129.pdf
 sourcecode: 
