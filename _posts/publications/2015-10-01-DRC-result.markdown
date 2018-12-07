@@ -29,5 +29,5 @@ sourcecode:
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2826)
 
 ### See More
-Please Visit [**DRC-project**]({{ site.url}}/DRC-project).
+Please visit [**DRC Finals**]({{ site.url}}/DRC-Finals).
 

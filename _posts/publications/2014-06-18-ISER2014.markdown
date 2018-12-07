@@ -40,14 +40,14 @@ grasping tasks than those of conventional synergy-based algorithms.
 
 ### Multimedias
 <div class="row projects-display">
-    <!-- <div class="six columns images"> -->
+    <div class="twelve columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QzGgV9KHaZI" frameborder="0" allowfullscreen></iframe>
         </div>
-    <!-- </div> -->
+    </div>
 </div>
 
 ### See More
-Please Visit [**RobotHand project**]({{ site.url}}/robothand-project).
+Please visit [**Robot Hand project**]({{ site.url}}/robothand-project).
 
 

@@ -39,5 +39,7 @@ depending on magnitude of gain matrix.
 ### PDF 
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2018/07/00013_002_129.pdf)
 
+### See More
+Please visit [**Task Transition project**]({{ site.url}}/Transition-project).
 
 

@@ -1,6 +1,18 @@
 <footer class="footer">
-    <p>&copy; {{site.username}}</p>
-    <p>Build with Jekyll </p>
+	<div class="row">
+		<div class="six columns">
+			<ul class="footer-list">
+	            <li><a href="{{ site.url }}">Home</a></li>
+	            <li><a href="{{ site.url }}/projects">Projects</a></li>
+	            
+	        </ul>
+		</div>
+		<div class="six columns">
+			<ul class="footer-list">
+						<li><a href="{{ site.url }}/publications">Publications</a></li>
+						<li><a href="https://github.com/ggory15">My Github</a></li>
+	        </ul>
+		</div>
 </footer>
 <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
