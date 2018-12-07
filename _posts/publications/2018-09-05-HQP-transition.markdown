@@ -57,6 +57,6 @@ The source codes will be operated in Windows 10, ubuntu 16.04, and 14.04
 </div>
 
 ### See More
-Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**Task Transition project**]({{ site.url}}/Transition-project).
+Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**Task Transition project**]({{ site.url}}/tasktransition-project).
 
 
