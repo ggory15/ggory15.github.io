@@ -54,7 +54,7 @@ The specification of this robot is as follow.
 	</div>
 	<div class="six columns">
 		<div class="images">
-			<img alt="Awesome Check In" height="100" src="{{ site.url }}/assets/img/project-images/3.hand/allegro.png">
+			<img alt="Awesome Check In" height="100" src="{{ site.url }}/assets/img/project-images/3.hand/motion1.png">
 		</div>
 	</div>
 </div>
