@@ -41,7 +41,13 @@ and its performance was demonstrated by improved stability during dynamic walkin
 
 
 ### Multimedias
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+<div class="row projects-display">
+    <div class="twelve columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LHGxx0M9ijs" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 ### See More
 Please Visit [**Humanoid project**]({{ site.url}}/humanoid-project).

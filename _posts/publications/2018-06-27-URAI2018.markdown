@@ -32,10 +32,16 @@ In this paper, a preliminary study of a real-time Inverse Kinematics (IK) techni
 
 
 ### Multimedias
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+<div class="row projects-display">
+    <div class="twelve columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/PfxoOjAHuBw" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 ### See More
-Please Visit [**Imitation project**]({{ site.url}}/Imitation-project).
+Please visit [**Imitation project**]({{ site.url}}/Imitation-project).
 
 
 

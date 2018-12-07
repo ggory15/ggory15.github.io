@@ -49,8 +49,15 @@ DRC Finals 2015, where Team SNU ranked 12th place out of
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2823)
 
 ### Multimedias
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+<div class="row projects-display">
+    <div class="twelve columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/aWpyfKkbzf0" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
 
 ### See More
-Please Visit [**DRC-project**]({{ site.url}}/DRC-project).
+Please visit [**DRC Finals**]({{ site.url}}/DRC-Finals).
 

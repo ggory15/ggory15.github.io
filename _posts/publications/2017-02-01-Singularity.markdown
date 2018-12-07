@@ -31,10 +31,5 @@ Using an inverse of the geometric Jacobian matrix is one of the most popular way
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3367)
 
 
-### Multimedias
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
-
-### See More
-Please Visit [**IK/ID project**]({{ site.url}}/IKID-project).
 
 

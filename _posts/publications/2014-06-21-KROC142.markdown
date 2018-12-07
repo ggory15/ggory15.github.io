@@ -36,5 +36,5 @@ sourcecode:
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2282)
 
 ### See More
-Please Visit [**RobotHand-project**]({{ site.url}}/Hand-project).
+Please visit [**Robot Hand project**]({{ site.url}}/robothand-project).
 

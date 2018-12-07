@@ -18,6 +18,7 @@ excerpt: This article is accepted in The 2014 IEEE-RAS International Conference 
 image: /assets/img/post-images/slider-images/HQP_icra.png
 imageAlt: HQP logo
 image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+permalink: /Humanoid2014
 
 pdf: http://ieeexplore.ieee.org/document/7041311/?arnumber=7041311
 sourcecode: 
@@ -29,6 +30,6 @@ This paper presents a new full sized humanoid leg robot that combines aesthetics
 ### PDF 
 [**PDF file**](http://ieeexplore.ieee.org/document/7041311/?arnumber=7041311)
 
-### Multimedias
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+### See More
+Please visit [**DRC Finals**](http://dyros.snu.ac.kr/project/humanoid-legged-robot/).
 
