@@ -11,15 +11,9 @@ excerpt: We are developing the controller of the dual-arm mobile manipulator by 
 github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
-image: /assets/img/project-images/awesome-checkin/checkin2-screensaver.png
+image: /assets/img/project-images/1.mobile/mobile.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/slider-images/mobile.png
-
-sliderData:
-- video: "http://www.youtube.com/embed/-lfnLhmSk3M"
-- video: http://www.youtube.com/embed/K8RnMAA0rg4
-- video: http://www.youtube.com/embed/4efccbsBLI4
-- video: http://www.youtube.com/embed/JkTF-9RKoDM
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
 
 ---
 ### Overview
@@ -37,17 +31,31 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 + OS: Ubuntu 16.04 (with preempt_rt kernel)
 
 ### Algorithms
+{% include projects/HQP-project_imag.html %}
 + Controller
 	- Wholebody controller based on the HQP controller
-	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm)
+	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm) 
+	(See also [**Transition Project**]({{ site.url}}/tasktransition-project) )
+	- Momentum Based observer
+
 + Planner
-	- Basic RRT(-connect) algorithm
+	- Basic BiRRT(-connect) algorithm
 	- VKC based dual-arm manipulation algorithm 
 
 ### Experimental Results
-Videos may be not represented in mobile. Please, visit this website in PC, if you want to see these videos. 
+{% include projects/HQP-project_video.html %}
 
-{% include flexslider_video.html %}
+### TODO
++ Dual Arm Manipulation
+	- Although it is already done in simulation, we want to buy one more manipulator! (Give me the money.)
+<div class="row projects-display">
+    <div class="four columns">
+        <div class="images">
+            <img alt="JUCE" src="{{ site.url }}/assets/img/project-images/1.mobile/dualarm.png">
+        </div>
+     </div>
+</div>
 
-We developed the controller for nonholonomic mobile manipulator using the HQP framework. In addition, we developed a novel approach to generate continuous control input during task transition. These videos show the proposed algorithm can be applied at various scenarios.
-
++ More powerful planner 
+	- (DDP? )
++ Door openning algorithm

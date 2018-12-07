@@ -11,15 +11,15 @@ excerpt: I tested various singularity avoidance algorithm.
 github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
-image: /assets/img/project-images/awesome-checkin/checkin2-screensaver.png
+image: /assets/img/project-images/6.ikid/main.png
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/slider-images/mobile.png
+image-slider: /assets/img/project-images/6.ikid/main.png
 
 sliderData:
 - video: "http://www.youtube.com/embed/-lfnLhmSk3M"
 - video: http://www.youtube.com/embed/K8RnMAA0rg4
 - video: http://www.youtube.com/embed/4efccbsBLI4
-- video: http://www.youtube.com/embed/JkTF-9RKoDM
+- video: http://www.youtube.com/embed/JkTF-9RK7DM
 
 ---
 ### Overview

@@ -11,9 +11,9 @@ excerpt: In this study, we suggests the controller for full-actuacted robot hand
 github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
-image: /assets/img/project-images/awesome-checkin/checkin2-screensaver.png
+image: /assets/img/project-images/3.hand/hand.png
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/slider-images/mobile.png
+image-slider: /assets/img/project-images/3.hand/hand.png
 
 sliderData:
 - video: "http://www.youtube.com/embed/-lfnLhmSk3M"

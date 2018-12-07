@@ -11,9 +11,9 @@ excerpt: In this study, we suggests the task transition algorithm to handle the 
 github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
-image: /assets/img/project-images/awesome-checkin/checkin2-screensaver.png
+image: /assets/img/project-images/2.task/task1.png
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/slider-images/mobile.png
+image-slider: /assets/img/project-images/2.task/task1.png
 
 sliderData:
 - video: "http://www.youtube.com/embed/-lfnLhmSk3M"
