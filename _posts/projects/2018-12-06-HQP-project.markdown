@@ -31,7 +31,18 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 + OS: Ubuntu 16.04 (with preempt_rt kernel)
 
 ### Algorithms
-{% include projects/HQP-project_imag.html %}
+<div class="row projects-display">
+    <div class="six columns">
+        <div class="images">
+            <img alt="JUCE" src="{{ site.url }}/assets/img/project-images/1.mobile/nonholo.png">
+        </div>
+     </div>
+    <div class="six columns">
+        <div class="images">
+            <img alt="JUCE" src="{{ site.url }}/assets/img/project-images/1.mobile/overview.png">
+        </div>
+    </div>
+</div>
 + Controller
 	- Wholebody controller based on the HQP controller
 	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm) 
@@ -43,7 +54,48 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 	- VKC based dual-arm manipulation algorithm 
 
 ### Experimental Results
-{% include projects/HQP-project_video.html %}
+
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/K8RnMAA0rg4" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="six columns">
+        <h5> Coffee Delivery Demo #1 </h5>
+        <li> Making trajectory by using BiRRT </li>
+        <li> Controlling by Whole-body HQP controller </li>
+        <li> Task Transition by considering multiple tasks </li>
+        </div>
+</div>
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4efccbsBLI4" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="six columns">
+        <h5> Coffee Delivery Demo #2 </h5>
+        <li> Making trajectory by using BiRRT </li>
+        <li> Controlling by Whole-body HQP controller </li>
+        <li> Task Transition by considering multiple tasks </li>
+        </div>
+</div>
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/JkTF-9RKoDM" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="six columns">
+        <h5> Momentum Observer Demo </h5>
+        <li> Detecting disturbances using momentum based observer </li>
+        <li> Compliance Control </li>
+        </div>
+</div>
 
 ### TODO
 + Dual Arm Manipulation
