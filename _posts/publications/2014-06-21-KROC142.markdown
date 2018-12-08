@@ -12,10 +12,9 @@ permalink: /kroc142
 categories: publications
 tags: Robot_Hand, Imitation
 excerpt: This article is accepted in the 9th Korea Robotics Society Annual Conference (KROC).
-
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2282
 sourcecode: 

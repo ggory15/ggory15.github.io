@@ -16,9 +16,9 @@ categories: publications
 tags: DRC_Finals, Humanoid
 excerpt: This article is accepted in Journal of Field Robotics. 
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3231
 sourcecode: 

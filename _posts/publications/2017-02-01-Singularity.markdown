@@ -16,9 +16,9 @@ categories: publications
 tags: Task_Transition, Singularity, IK/ID
 excerpt: This article is accepted in Journal of Korea Robotics Society. I got a best paper award by this.
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3367
 sourcecode: 

@@ -15,9 +15,9 @@ categories: publications
 tags: Humanoid
 excerpt: This article is accepted in The 2014 IEEE-RAS International Conference on Humanoid Robots (Humanoids 2014). 
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 permalink: /Humanoid2014
 
 pdf: http://ieeexplore.ieee.org/document/7041311/?arnumber=7041311
