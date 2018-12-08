@@ -13,12 +13,20 @@ email: ggory15@snu.ac.kr
 github_username: "ggory15"
 gplus_username:  "ggory15"
 
+disqus_url: http://disqus.com/by/ggory15
+disqus_id: ggory15
+
 # Google-analytics
 google-analytics:
   id: "ggory15"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
