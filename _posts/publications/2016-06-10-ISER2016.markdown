@@ -16,9 +16,9 @@ categories: publications
 tags: Medical_Robot
 excerpt: This article is accepted in 2016 International Symposium on Experimental Robotics (ISER).
 
-image: /assets/img/post-images/slider-images/NO.jpg
+image: /assets/img/project-images/5.cpr/main.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/NO.jpg
+image-slider: /assets/img/project-images/5.cpr/main.png
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3265
 sourcecode: 

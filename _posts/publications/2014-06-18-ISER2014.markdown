@@ -16,9 +16,9 @@ categories: publications
 tags:  Robot_Hand, Imitation
 excerpt: This article is accepted in 2014 International Symposium on Experimental Robotics (ISER).
 
-image: /assets/img/post-images/slider-images/NO.jpg
+image: /assets/img/project-images/3.hand/hand.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/NO.jpg
+image-slider: /assets/img/project-images/3.hand/hand.png
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2281
 sourcecode: 
