@@ -18,7 +18,7 @@ disqus_id: ggory15
 
 # Google-analytics
 google-analytics:
-  id: UA-130664770-1
+  id:  UA-130664770-1 
 
 exclude: ['package.json', 'src' , 'node_modules']
 
