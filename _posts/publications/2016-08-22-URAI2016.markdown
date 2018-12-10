@@ -16,9 +16,9 @@ categories: publications
 tags: Imitation
 excerpt: This article is accepted in The 13th International Conference on Ubiquitous Robots and Ambient Intelligene (URAI).
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=3175
 sourcecode: 

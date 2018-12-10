@@ -16,9 +16,9 @@ categories: publications
 tags: HRI
 excerpt: This article is accepted in 로봇과 인간.
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 
 pdf: http://dyros.snu.ac.kr/wp-content/uploads/2017/12/3박재흥-특집1교-3.pdf
 sourcecode: 

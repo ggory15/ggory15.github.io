@@ -13,9 +13,9 @@ categories: publications
 tags: Task_Transition
 excerpt: This article is accepted in 한국정밀공학회 2017년도 추계학술대회논문집.
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/post-images/slider-images/NO.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/post-images/slider-images/NO.jpg
 
 pdf: 
 sourcecode: 

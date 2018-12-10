@@ -16,9 +16,9 @@ categories: publications
 tags: DRC_Finals, Humanoid
 excerpt: This article is accepted in 2015 IEEE-RAS International Conference on Humanoid Robots (Humanoids 2015). 
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/project-images/4.drc/main.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/project-images/4.drc/main.jpg
 
 pdf: http://dyros.snu.ac.kr/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=2823
 sourcecode: 

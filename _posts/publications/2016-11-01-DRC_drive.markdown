@@ -16,9 +16,9 @@ categories: publications
 tags: DRC_Finals, Humanoid
 excerpt: This article is accepted in Journal of Institute of Control, Robotics, and Systems.
 
-image: /assets/img/post-images/slider-images/HQP_icra.png
+image: /assets/img/project-images/4.drc/main.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/HQP_icra.png
+image-slider: /assets/img/project-images/4.drc/main.jpg
 
 pdf: http://dyros.cafe24.com/paper/jicrs2016.pdf
 sourcecode: 
