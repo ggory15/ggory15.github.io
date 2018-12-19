@@ -23,6 +23,8 @@ having a method that can efficiently compute these solutions is important.  We  
 interpretations  of  said  control  policies,  and  we  compare  the computation  time  of  our  method  against  existing  methods.
 
 ### Paper Link
+F. Laine and C. Tomlin, Efficient Computation of Feedback Control for Constrained Systems, ICRA 2019 (summitted)
+
 [**PDF file**](https://arxiv.org/pdf/1807.00794.pdf)
 
 
@@ -31,7 +33,7 @@ interpretations  of  said  control  policies,  and  we  compare  the computation
     - Numpy (for computation)
     - matplotlib (for drawing results)
 
-### How to USE
+### How to Operate
 + ipython LQR.py
     - My code is to caculate simple dynamics problem which is introduces in their paper.
 
