@@ -1,0 +1,36 @@
+---
+layout: post
+title: Task Space Inverse Dynamics
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /TSID
+categories: implementations
+tags: LQR, Riccati
+excerpt: This algorithm was proposed in "Prioritized motion–force control of constrained fully-actuated robots-Task Space Inverse Dynamics" by A. D. Prete (RAS 2014)
+
+github: https://github.com/ggory15/tsid
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Abstract
+We present a new framework for prioritized multi-task motion/force control of fully-actuated robots. This work is established on a careful review and comparison of the state of the art. Some control frameworks are not optimal, that is they do not find the optimal solution for the secondary tasks. Other frameworks are optimal, but they tackle the control problem at kinematic level, hence they neglect the robot dynamics and they do not allow for force control. Still other frameworks are optimal and consider force control, but they are computationally less efficient than ours. Our final claim is that, for fully-actuated robots, computing the operational-space inverse dynamics is equivalent to computing the inverse kinematics (at acceleration level) and then the joint-space inverse dynamics. Thanks to this fact, our control framework can efficiently compute the optimal solution by decoupling kinematics and dynamics of the robot. We take into account: motion and force control, soft and rigid contacts, free and constrained robots. Tests in simulation validate our control framework, comparing it with other state-of-the-art equivalent frameworks and showing remarkable improvements in optimality and efficiency.
+
+### Paper Link
+A. D. Prete et al., Prioritizedmotion–forcecontrolofconstrainedfully-actuatedrobots-TaskSpaceInverseDynamics, RAS 2014
+
+[**PDF file**](https://ac.els-cdn.com/S0921889014001742/1-s2.0-S0921889014001742-main.pdf?_tid=7aab05f9-a5e1-4560-be9a-d899cd79d71f&acdnat=1545239761_2a1154987f5e4369987df12fb90bbda0)
+
+
+### Code Dependancy
++ Python 2.7.x
+    - Pinocchio and gepetto viewer
+
+    See more my readme file in the github repository.
+
+### How to Operate
++ ipython demo/demo_romeo.py
+
+

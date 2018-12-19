@@ -1,0 +1,55 @@
+---
+layout: post
+title: Multi-shooting DDP
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /M-DDP
+categories: implementations
+tags: DDP, Riccati
+excerpt: This algorithm was proposed in "A Family of Iterative Gauss-Newton Shooting Methods for Nonlinear Optimal Control" by M. Giftthaler (IROS 2018)
+
+github: https://github.com/ggory15/DDP_GNMS
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Abstract
+This paper introduces a family of iterative al-
+gorithms for unconstrained nonlinear optimal control. We
+generalize the well-known iLQR algorithm to different multiple-
+shooting variants, combining advantages like straight-forward
+initialization and a closed-loop forward integration. All al-
+gorithms have similar computational complexity, i.e. linear
+complexity in the time horizon, and can be derived in the same
+computational framework. We compare the full-step variants
+of our algorithms and present several simulation examples,
+including a high-dimensional underactuated robot subject to
+contact switches. Simulation results show that our multiple-
+shooting algorithms can achieve faster convergence, better local
+contraction rates and much shorter runtimes than classical
+iLQR, which makes them a superior choice for nonlinear model
+predictive control applications.
+
+### Paper Link
+M. Giftthaler et al., A Family of Iterative Gauss-Newton Shooting Methods for Nonlinear Optimal Control, IROS 2018
+
+[**PDF file**](https://arxiv.org/abs/1711.11006)
+
+
+### Code Dependancy
++ Matlab
+
+### How to Operate It
++ ipython LQR.py
+    - My code is to caculate simple dynamics problem which is introduces in their paper.
+
+### Result
+<div class="row projects-display">
+					<div class="video-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/MM8C0l71mHo  
+" frameborder="0" allowfullscreen></iframe>
+					</div>
+</div>
+

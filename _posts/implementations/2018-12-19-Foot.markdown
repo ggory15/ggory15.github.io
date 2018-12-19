@@ -1,0 +1,44 @@
+---
+layout: post
+title: Foot Trajectory Generation
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /Foot
+categories: implementations
+tags: Trajectory_generation
+excerpt: This algorithm was proposed in "Collision avoidance based on separating planes for feet trajectory " by S. Brossette (Humanoid 2017)
+
+github: https://github.com/ggory15/HPP_foottrajectory/tree/python
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Abstract
+In this paper, we present a formulation of the col-
+lision avoidance constraints that relies on the use of separating
+planes instead of a distance function. This formulation has the
+advantage  of  being  defined  and  continuously  differentiable  in
+every situation. Because it introduces additional variables to the
+optimization problems, making it bigger and potentially slowing
+down  its  resolution,  we  propose  a  different  resolution  method
+that  takes  advantage  of  the  independence  of  the  variables,  to
+form  two  subproblems  that  can  be  solved  efficiently  in  an
+alternate problem fashion. We present some preliminary results
+using  this  approach  in  order  to  highlight  its  potential  and
+promises in terms of convergence speed and robustness.
+
+### Paper Link
+S. Brossette and P. Wieber, Collision avoidance based on separating planes for feet trajectory, Humanoid 2017
+
+[**PDF file**](http://comanoid.cnrs.fr/publications_files/2017/Humanoids/ICHR17_0140_FI.pdf)
+
+
+### Code Dependancy
++ Python 2.7.x
+    - Pyipopt (https://github.com/xuy/pyipopt)
+    - pinochio and gepetto-viewer (https://github.com/stack-of-tasks/pinocchio)
+
+### How to Operate It
++ ipython NLP_demo.py

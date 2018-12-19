@@ -6,7 +6,7 @@ date:   2018-12-06 7:00:00 -0400
 permalink: /guitar2
 categories: posts
 tags: guitar, fingersytle
-excerpt: This is TAB score for 'Baby's Coming Home' by Chet Atkins.
+excerpt: This is TAB score for 'White Chirstmas' by Rynten Okazaki.
 
 image: /assets/img/project-images/1.mobile/mobile.jpg
 imageAlt: HQP logo

@@ -1,0 +1,40 @@
+---
+layout: post
+title: Constraint DDP
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /CDDP
+categories: implementations
+tags: DDP, Riccati
+excerpt: This algorithm was proposed in "Differential dynamic programming with nonlinear constraints " by Z. Xie (ICRA 2017)
+
+github: https://github.com/ggory15/CDDP
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Abstract
+Differential dynamic programming (DDP) is a widely used trajectory optimization technique that addresses nonlinear optimal control problems, and can readily handle nonlinear cost functions. However, it does not handle either state or control constraints. This paper presents a novel formulation of DDP that is able to accommodate arbitrary nonlinear inequality constraints on both state and control. The main insight in standard DDP is that a quadratic approximation of the value function can be derived using a recursive backward pass, however the recursive formulae are only valid for unconstrained problems. The main technical contribution of the presented method is a derivation of the recursive quadratic approximation formula in the presence of nonlinear constraints, after a set of active constraints has been identified at each point in time. This formula is used in a new Constrained-DDP (CDDP) algorithm that iteratively determines these active set and is guaranteed to converge toward a local minimum. CDDP is demonstrated on several underactuated optimal control problems up to 12D with obstacle avoidance and control constraints and is shown to outperform other methods for accommodating constraints.
+
+### Paper Link
+Z. Xie, C. Karen Liu, and K. Hauser, Differential dynamic programming with nonlinear constraints, ICRA 2017
+
+[**PDF file**](https://ieeexplore.ieee.org/document/7989086)
+
+
+### Code Dependancy
++ Matlab
+    - qpOASES (Matlab interface)
+
+### How to Operate It
++ open and run demo_car.m
+
+### Result
+<div class="row projects-display">
+					<div class="video-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/rygcNHlTTJ4
+" frameborder="0" allowfullscreen></iframe>
+					</div>
+</div>
