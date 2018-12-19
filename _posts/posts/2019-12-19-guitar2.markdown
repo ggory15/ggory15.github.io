@@ -1,0 +1,31 @@
+---
+layout: post
+title: TAB. White Chirstmas by Rynten Okazaki
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /guitar2
+categories: posts
+tags: guitar, fingersytle
+excerpt: This is TAB score for 'Baby's Coming Home' by Chet Atkins.
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Overview
+Chet Atkins의 Baby is coming home 악보입니다. 
+붐칙의 입문곡이라는데 저도 연습하고 있습니다.
+
+### Video
+<div class="row projects-display">
+					<div class="video-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/-mw-QXxkm3o
+" frameborder="0" allowfullscreen></iframe>
+					</div>
+</div>
+
+### Download
+저작권 문제시 삭제하겠습니다.
+
+<a href="/assets/pdf/posts/White Christmas by Rynten.pdf"> PDF File </a>

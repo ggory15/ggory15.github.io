@@ -8,7 +8,7 @@
  <div>
 	<div class="flexslider flex-design">
 		<ul class="slides">
-			  {% for page in site.categories.posts limit: 5%}
+			  {% for page in site.categories.publications limit: 5%}
 	  		<li data-thumb="{{ page.image-slider }}">
 	  			<a href="{{ site.url}}{{ page.permalink }}">
 		    		<img src="{{ page.image-slider }}">

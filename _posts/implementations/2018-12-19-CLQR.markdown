@@ -1,0 +1,38 @@
+---
+layout: post
+title: Constraint LQR
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /C-LQR
+categories: implementations
+tags: LQR, Riccati
+excerpt: This algorithm was proposed in "Efficient Computation of Feedback Control for Constrained Systems" by F. Laine (ICRA 2019)
+
+github: https://github.com/ggory15/Constraint_LQR
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Abstract
+A method is presented for solving the discrete-time finite-horizon Linear Quadratic Regulator (LQR) problem sub-
+ject  to  auxiliary  linear  equality  constraints,  such  as  fixed  end-point  constraints.  The  method  explicitly  determines  an  affine relationship between the control and state variables, as in standard Riccati recursion, giving rise to feedback control policies
+that account for constraints. Since the linearly-constrained LQR problem  arises  commonly  in  robotic  trajectory  optimization,
+having a method that can efficiently compute these solutions is important.  We  demonstrate  some  of  the  useful  properties  and
+interpretations  of  said  control  policies,  and  we  compare  the computation  time  of  our  method  against  existing  methods.
+
+### Paper Link
+[**PDF file**](https://arxiv.org/pdf/1807.00794.pdf)
+
+
+### Code Dependancy
++ Python 2.7.x
+    - Numpy (for computation)
+    - matplotlib (for drawing results)
+
+### How to USE
++ ipython LQR.py
+    - My code is to caculate simple dynamics problem which is introduces in their paper.
+
+

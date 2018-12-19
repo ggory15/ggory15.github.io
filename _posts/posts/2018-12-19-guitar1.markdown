@@ -1,0 +1,52 @@
+---
+layout: post
+title: TAB. Baby's Coming Home by Chet Atkins
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /guitar1
+categories: posts
+tags: guitar, fingersytle
+excerpt: This is TAB score for 'Baby's Coming Home' by Chet Atkins.
+
+image: /assets/img/project-images/1.mobile/mobile.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+
+---
+### Overview
+Chet Atkins의 Baby is coming home 악보입니다. 
+붐칙의 입문곡이라는데 저도 연습하고 있습니다.
+
+### Video
+<div class="row projects-display">
+					<div class="video-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/rHzWChnHgJA
+" frameborder="0" allowfullscreen></iframe>
+					</div>
+</div>
+
+### Lectures in Youtube
+유튜브에 업로드된 '주성치'님의 강좌입니다. http://cafe.naver.com/gunsfingerstyle 에 가시면 사용하신 악보도 볼 수 있습니다.
+(제 홈페이지에 업로드 된 버전은 오리지날 버전이라서 몇 부분이 다를 수 있습니다.)
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="video-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/WgGnQYlzvog
+" frameborder="0" allowfullscreen></iframe>
+					</div>
+        		</li>
+				<li>  
+					<div class="video-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/Sg4OpDGBwZ8
+" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+
+### Download
+<a href="/assets/pdf/posts/docslide.net_babys-coming-home2pdf.pdf"> PDF File </a>
