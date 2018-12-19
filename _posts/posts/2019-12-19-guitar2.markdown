@@ -14,8 +14,8 @@ image-slider: /assets/img/project-images/1.mobile/mobile.jpg
 
 ---
 ### Overview
-Chet Atkins의 Baby is coming home 악보입니다. 
-붐칙의 입문곡이라는데 저도 연습하고 있습니다.
+오카자키 린텐의 White Christmas 악보입니다. 
+크리스마스를 맞이하여 연습하고 있습니다.
 
 ### Video
 <div class="row projects-display">
