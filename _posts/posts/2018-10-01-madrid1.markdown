@@ -14,6 +14,8 @@ image-slider: /assets/img/post/Madrid/a-3.jpg
 
 ---
 ### Images
+Please wait a moment to load images
+
 
 <div class="row projects-display">
     <div class="flexslider">
