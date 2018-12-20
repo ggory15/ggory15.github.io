@@ -8,9 +8,9 @@ categories: posts
 tags: tour, france
 excerpt: Carcassonne Tour 
 
-image: /assets/img/post/Carcasson/3.jpg
+image: /assets/img/post/Carcasson/a-3.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post/Carcasson/3.jpg
+image-slider: /assets/img/post/Carcasson/a-3.jpg
 
 ---
 ### Images
@@ -20,27 +20,27 @@ image-slider: /assets/img/post/Carcasson/3.jpg
         <ul class="slides">
 	  			<li>
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/1.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-1.jpg">
 					</div>
         		</li>
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/2.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-2.jpg">
 					</div>
 				</li>  
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/3.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-3.jpg">
 					</div>
 				</li>
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/4.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-4.jpg">
 					</div>
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/5.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-5.jpg">
 					</div>
 				</li>  
 			</ul>
@@ -51,22 +51,22 @@ image-slider: /assets/img/post/Carcasson/3.jpg
         <ul class="slides">
 	  			<li>
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/6.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-6.jpg">
 					</div>
         		</li>
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/7.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-7.jpg">
 					</div>
 				</li>  
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/8.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-8.jpg">
 					</div>
 				</li>
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/9.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-9.jpg">
 					</div>
 				</li>  								
 			</ul>
@@ -77,27 +77,27 @@ image-slider: /assets/img/post/Carcasson/3.jpg
         <ul class="slides">
 	  			<li>
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/11.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-11.jpg">
 					</div>
         		</li>
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/12.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-12.jpg">
 					</div>
 				</li>  
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/13.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-13.jpg">
 					</div>
 				</li>
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/14.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-14.jpg">
 					</div>
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/15.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-15.jpg">
 					</div>
 				</li>  
 			</ul>
@@ -108,22 +108,22 @@ image-slider: /assets/img/post/Carcasson/3.jpg
         <ul class="slides">
 	  			<li>
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/20.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-20.jpg">
 					</div>
         		</li>
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/16.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-16.jpg">
 					</div>
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/18.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-18.jpg">
 					</div>
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/19.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-19.jpg">
 					</div>
 				</li>  
 			</ul>
@@ -134,27 +134,27 @@ image-slider: /assets/img/post/Carcasson/3.jpg
         <ul class="slides">
 	  			<li>
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/21.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-21.jpg">
 					</div>
         		</li>
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/22.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-22.jpg">
 					</div>
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/23.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-23.jpg">
 					</div>
 				</li>  
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/24.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-24.jpg">
 					</div>
 				</li>  
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/25.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-25.jpg">
 					</div>
 				</li>  
 			</ul>
@@ -165,17 +165,17 @@ image-slider: /assets/img/post/Carcasson/3.jpg
         <ul class="slides">
 	  			<li>
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/26.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-26.jpg">
 					</div>
         		</li>
 				<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/27.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-27.jpg">
 					</div>
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/28.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-28.jpg">
 					</div>
 				</li>  
 			</ul>
