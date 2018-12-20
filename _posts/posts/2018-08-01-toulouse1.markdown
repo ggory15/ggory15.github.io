@@ -99,7 +99,7 @@ Please wait a moment to load images
 				</li>
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Toulouse1/a-14.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Toulouse1/a-0.jpg">
 					</div>
 				</li>  
 								<li>  
@@ -136,27 +136,6 @@ Please wait a moment to load images
 								<li>  
 					<div class="images">
 						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Toulouse1/a-19.jpg">
-					</div>
-				</li>  
-			</ul>
-    </div>
-</div>
-<div class="row projects-display">
-    <div class="flexslider">
-        <ul class="slides">
-	  			<li>
-					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Toulouse1/a-21.jpg">
-					</div>
-        		</li>
-				<li>  
-					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Toulouse1/a-22.jpg">
-					</div>
-				</li>  
-								<li>  
-					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Toulouse1/a-24.jpg">
 					</div>
 				</li>  
 			</ul>

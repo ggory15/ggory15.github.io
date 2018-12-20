@@ -192,7 +192,7 @@ Please wait a moment to load images
 				</li>
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/a-28.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/a-0.jpg">
 					</div>
 				</li>  
 								<li>  

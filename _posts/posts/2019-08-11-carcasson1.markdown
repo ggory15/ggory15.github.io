@@ -14,6 +14,7 @@ image-slider: /assets/img/post/Carcasson/a-3.jpg
 
 ---
 ### Images
+Please wait a moment to load images
 
 <div class="row projects-display">
     <div class="flexslider">
@@ -54,11 +55,6 @@ image-slider: /assets/img/post/Carcasson/a-3.jpg
 						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-6.jpg">
 					</div>
         		</li>
-				<li>  
-					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-7.jpg">
-					</div>
-				</li>  
 				<li>  
 					<div class="images">
 						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-8.jpg">
@@ -175,7 +171,7 @@ image-slider: /assets/img/post/Carcasson/a-3.jpg
 				</li>  
 								<li>  
 					<div class="images">
-						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-28.jpg">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/a-17.jpg">
 					</div>
 				</li>  
 			</ul>
