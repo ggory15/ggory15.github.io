@@ -1,0 +1,183 @@
+---
+layout: post
+title: 18.08.11 Carcassonne 
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /carcassonne1
+categories: posts
+tags: tour, france
+excerpt: Carcassonne Tour 
+
+image: /assets/img/post/Carcasson/3.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Carcasson/3.jpg
+
+---
+### Images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/1.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/2.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/3.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/4.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/5.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/6.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/7.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/8.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/9.jpg">
+					</div>
+				</li>  								
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/11.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/12.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/13.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/14.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/15.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/20.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/16.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/18.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/19.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/21.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/22.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/23.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/24.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/25.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/26.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/27.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Carcasson/28.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>

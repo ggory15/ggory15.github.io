@@ -1,0 +1,234 @@
+---
+layout: post
+title: 18.10.01 Madrid 
+author: Sanghyun Kim
+date:   2018-12-06 7:00:00 -0400
+permalink: /madrid1
+categories: posts
+tags: tour, spain
+excerpt: Visit Madrid to particpate the IROS 2018 ...
+
+image: /assets/img/post/Madrid/3.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Madrid/3.jpg
+
+---
+### Images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/1.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/2.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/3.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/4.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/5.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/6.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/7.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/8.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/9.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/10.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/11.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/12.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/13.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/14.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/15.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/20.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/16.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/17.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/18.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/19.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/21.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/22.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/23.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/24.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/25.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/30.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/26.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/27.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/28.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/29.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/31.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/32.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/33.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/34.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Madrid/35.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>

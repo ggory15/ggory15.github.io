@@ -5,7 +5,7 @@ author: Sanghyun Kim
 date:   2018-12-06 7:00:00 -0400
 permalink: /toulouse1
 categories: posts
-tags: guitar, fingersytle
+tags: tour, france
 excerpt: When I first came at Toulouse ...
 
 image: /assets/img/post/Toulouse1/3.jpg

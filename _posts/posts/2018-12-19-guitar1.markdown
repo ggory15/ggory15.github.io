@@ -8,9 +8,9 @@ categories: posts
 tags: guitar, fingersytle
 excerpt: This is TAB score for 'Baby's Coming Home' by Chet Atkins.
 
-image: /assets/img/project-images/1.mobile/mobile.jpg
+image: /assets/img/post/guitar.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/1.mobile/mobile.jpg
+image-slider: /assets/img/post/guitar.jpg
 
 ---
 ### Overview
