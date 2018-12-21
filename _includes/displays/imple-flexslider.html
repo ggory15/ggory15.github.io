@@ -11,11 +11,12 @@
 			  {% for page in site.categories.implementations limit: 5%}
 	  		<li data-thumb="{{ page.image-slider }}">
 	  			<a href="{{ site.url}}{{ page.permalink }}">
-		    		<img src="{{ page.image-slider }}">
+		    		<!-- <img src="{{ page.image-slider }}"> -->
 		    		<hr>
 					<p class="flex-caption-title">{{ page.title }}</p>
 					<br>
-		    		<p class="flex-caption"; style="text-align: left";>{{ page.excerpt }}</p>
+					<p class="flex-caption"; style="text-align: left";>{{ page.excerpt }}</p>
+					<hr>
 		    	</a>
 	 		</li>
 	  		{% endfor %}
