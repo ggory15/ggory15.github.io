@@ -1,0 +1,65 @@
+---
+layout: post
+title: 19.01.05 Pompeii 
+author: Sanghyun Kim
+date:   2019-01-03 7:00:00 -0400
+permalink: /Pompeii
+categories: posts
+tags: tour, italy
+excerpt: Visit Pompeii in Italy
+
+image: /assets/img/post/Pompeii/a-2.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Pompeii/a-2.jpg
+
+---
+### Images
+Please wait a moment to load images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-0.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-1.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-2.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-3.jpg">
+					</div>
+				</li> 
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-4.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-5.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Pompeii/a-6.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
