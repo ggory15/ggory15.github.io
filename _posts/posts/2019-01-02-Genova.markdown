@@ -1,0 +1,70 @@
+---
+layout: post
+title: 19.01.02 Genova 
+author: Sanghyun Kim
+date:   2019-01-02 7:00:00 -0400
+permalink: /Genova
+categories: posts
+tags: tour, italy
+excerpt: Visit Genova in Italy
+
+image: /assets/img/post/Genova/a-6.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Genova/a-6.jpg
+
+---
+### Images
+Please wait a moment to load images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-0.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-1.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-2.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-3.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-4.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-5.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-6.jpg"  >
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Genova/a-7.jpg">
+					</div>
+				</li>
+			</ul>
+    </div>
+</div>

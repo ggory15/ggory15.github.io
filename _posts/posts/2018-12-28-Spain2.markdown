@@ -1,0 +1,70 @@
+---
+layout: post
+title: 18.12.28 Cadaqués 
+author: Sanghyun Kim
+date:   2018-12-28 7:00:00 -0400
+permalink: /Cadaques
+categories: posts
+tags: tour, spain
+excerpt: Visit Cadaqués in Spain
+
+image: /assets/img/post/Cadaques/a-3.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Cadaques/a-3.jpg
+
+---
+### Images
+Please wait a moment to load images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-0.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-1.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-2.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-3.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-4.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-5.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-6.jpg"  >
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Cadaques/a-7.jpg">
+					</div>
+				</li>
+			</ul>
+    </div>
+</div>

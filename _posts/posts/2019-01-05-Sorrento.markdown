@@ -1,0 +1,85 @@
+---
+layout: post
+title: 19.01.05 Sorrento 
+author: Sanghyun Kim
+date:   2019-01-03 7:00:00 -0400
+permalink: /Sorrento
+categories: posts
+tags: tour, italy
+excerpt: Visit Sorrento in Italy
+
+image: /assets/img/post/Sorrento/a-3.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Sorrento/a-3.jpg
+
+---
+### Images
+Please wait a moment to load images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-0.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-1.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-2.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-3.jpg">
+					</div>
+				</li>  2020-01-05-Sorrento
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-4.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-5.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-6.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-7.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-8.jpg">
+					</div>
+				</li>  
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Sorrento/a-9.jpg">
+					</div>
+				</li>  
+			</ul>
+    </div>
+</div>
+<div class="row projects-display">
+	<div class="video-container">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/q1H1Ff0RGY4" frameborder="0" allowfullscreen></iframe>
+	</div>
+</div>
