@@ -4,14 +4,14 @@ layout: post
 title: Continuous Task Transition Approach for Robot Controller based on Hierarchical Quadratic Programming
 author: Sanghyun Kim, K. Jang, S. Park, Y. Lee, S. Lee, and J.Park
 name: IEEE Roboticis and Automation Letters
-state: Revised and Resummit
+state: Accepted
 year: 2018
 type: International_journal
 date:   2018-09-05 7:00:00 -0400
 permalink: /HQP-transition
 categories: publications
 tags: HQP, Task_Transition, Mobile Manipulator
-excerpt: This article is summitted in RAL and ICRA 2019. The state is 'revision and resummit'
+excerpt: This article has been accepted in R-AL with ICRA 2019. Thanks to other authors.
 github: https://github.com/ggory15/HQP_DualArmMobile
 
 image: /assets/img/post-images/slider-images/HQP_icra.png
