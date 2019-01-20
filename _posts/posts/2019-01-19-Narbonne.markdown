@@ -1,0 +1,44 @@
+---
+layout: post
+title: 19.01.19 Narbonne 
+author: Sanghyun Kim
+date:   2019-01-19 7:00:00 -0400
+permalink: /Narbonne
+categories: posts
+tags: tour, France
+excerpt: Visit Narbonne
+
+image: /assets/img/post/Narbonne/a-1.jpg
+imageAlt: HQP logo
+image-slider: /assets/img/post/Narbonne/a-1.jpg
+
+---
+### Images
+Please wait a moment to load images
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}//assets/img/post/Narbonne/a-0.jpg">
+					</div>
+        		</li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Narbonne/a-1.jpg">
+					</div>
+				</li>  
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Narbonne/a-2.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Narbonne/a-3.jpg">
+					</div>
+				</li>  2020-01-05-Sorrento
+				</ul>
+    </div>
+</div>
