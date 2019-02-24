@@ -1,0 +1,32 @@
+---
+published: true
+layout: post
+title: Agile Standing-up Control of Humanoids-Online Energy-based Reactive Force Optimization with Strict Dynamic Consistency
+author: Y. Lee, J. Lee, Sanghyun Kim, and N. Tsagarakis
+name: IEEE/RSJ International conference on Intelligent Robots and Systems
+state: under-review
+year: 2019
+# vol: 4
+# pp: 1603-1610
+# issue: 2
+type: International_conference
+date:   2019-02-24 7:00:00 -0400
+permalink: /IROS2019
+categories: publications
+tags: Humanoid, QP
+excerpt: This article has been summited on IROS 2019
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+#pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/01/revision.pdf
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/ICRA2018.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/ICRA2018.png
+
+pdf: #http://dyros.snu.ac.kr/wp-content/uploads/2018/07/IK_shortver-1.pdf
+sourcecode: 
+---
+
+### Abstact 
+All information will be uploaded after finishing reviewing.

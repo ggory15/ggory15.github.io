@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: eleoperated  Robot  Hand  Control  using  TensorDecomposition
+author: Sanghyun Kim, J. Lee, M. Kim, and J. Park
+name: Full-day Tutorial on Robotics-based Methods for the Identification,  Recognition,and Synthesis of Human Motions,  IEEE/RSJ International Conference on Intelligent Robots and Systems
+state: Poster
+year: 2013
+vol: 
+issue: 
+pp: 
+type: Workshop
+date:   2014-02-01 7:00:00 -0400
+permalink: /workshop1
+categories: publications
+tags:  robothand
+
+---
+
+

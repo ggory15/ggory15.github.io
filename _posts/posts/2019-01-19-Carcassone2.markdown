@@ -5,7 +5,7 @@ author: Sanghyun Kim
 date:   2019-01-19 7:00:00 -0400
 permalink: /Carcassonne2
 categories: posts
-tags: tour, italy
+tags: tour, France
 excerpt: Visit Carcassone in Winter!
 
 image: /assets/img/post/Carcassonne2/a-0.jpg

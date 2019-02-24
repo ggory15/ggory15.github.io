@@ -147,8 +147,7 @@
 		{% for page in site.categories.publications %}
 		{% if page.type == "Workshop" %}
 			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong>
-				<a href="{{site.url}}{{page.permalink}}"> Summary</a>		
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}}. <strong>{{page.state}}</strong>
 				</h6>
 			</div>
 		{% endif %}
@@ -157,7 +156,7 @@
 		{% for page in site.categories.publications %}
 		{% if page.type == "Patent" %}
 			<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}} <strong>{{page.state}}</strong></h6>
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}}, {{page.year}}. <strong>{{page.state}}</strong></h6>
 			</div>
 		{% endif %}
 		{% endfor %}	

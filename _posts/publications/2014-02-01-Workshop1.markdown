@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: Control Strategies of Team SNU for DRC Finals, and Future Directionsfor Robots in Human Environment.
+author: Sanghyun Kim and Jaeheung Park
+name: Workshop on What did we do for the DARPARobotics Challenge?, 2015 IEEE-RAS International Conference on Humanoid Robots
+state: Invited Speaker
+year: 2015
+vol: 
+issue: 
+pp: 
+type: Workshop
+date:   2014-02-02 7:00:00 -0400
+permalink: /workshop2
+categories: publications
+tags:  DRC
+
+---
+
+
