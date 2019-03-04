@@ -1,0 +1,45 @@
+---
+published: true
+layout: post
+title: Self-collision Avoidance Algorithm for Robot Manipulator Using Continuous Task Transition Algorithm
+author: K. Jang, Sanghyun Kim, S. Park,  S. Y. Lee, and J. Park
+name: The 14th Korea Robotics Society Annual Conference (KROC)
+state: accepted
+year: 2019
+# vol: 4
+# pp: 1603-1610
+# issue: 2
+type: Domestic_conference
+date:   2019-01-23 7:00:00 -0400
+permalink: /KROC20192
+categories: publications
+tags: CLIK
+excerpt: This article has been accepted on KROC 2019
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/01/20190130_055223.pdf
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/kroc2.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/kroc2.png
+
+sourcecode: 
+---
+
+### Abstact 
+본 논문에서는 매니퓰레이터의 내부 링크 간 자가 충돌을 방지하는 알고리즘을 제안한다 . 알고리즘은 해의 불연속성 없
+이 작업의 삽입이나 삭제가 가능한 작업 전이 알고리즘을 기반으로 한다 . 또한 , 알고리즘은 매니퓰레이터의 내부 링크
+간 거리 값에 따라 일정 거리 이하부터 서로 멀어지는 방향의 작업을 삽입하여 충돌을 회피한다 . 알고리즘의 검증은 7 자
+유도 매니퓰레이터를 통해 이루어졌다 . 또한 , 실험 영상은 https://youtu.be/FH2wKkQfCIc 을 통해 확인할 수 있다 .
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/01/20190130_055223.pdf) 
+
+<div class="row projects-display">
+    <div class="twelve columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/FH2wKkQfCIc" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>

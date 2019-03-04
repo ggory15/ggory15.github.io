@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Real-Time Self-Collision Avoidance Using Attractive Force for Differentially Driven Mobile Manipulators  
-author: K. Jang, Sanghyun Kim, S. Park, S. Kim, and J.Park
+author: K. Jang, Sanghyun Kim, S. Park, S. Kim, and J. Park
 name: IEEE/RSJ Interantional Conference on Robotics and System (IROS)
 state: under-review
 year: 2019
@@ -14,7 +14,7 @@ date:   2019-02-23 7:00:00 -0400
 permalink: /IROS2019
 categories: publications
 tags: mobile, HQP
-excerpt: This article has been summited on ARM 2019
+excerpt: This article has been summited on IROS 2019
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
 #pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/01/revision.pdf

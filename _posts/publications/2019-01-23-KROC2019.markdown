@@ -1,0 +1,36 @@
+---
+published: true
+layout: post
+title: A Comparative Study of Tracking Control with Closed Loop Inverse Kinematics Algorithm
+author: S. Y. Lee, S. Park, K. Jang, Sanghyun Kim, S. Kim, and J. Park
+name: The 14th Korea Robotics Society Annual Conference (KROC)
+state: accepted
+year: 2019
+# vol: 4
+# pp: 1603-1610
+# issue: 2
+type: Domestic_conference
+date:   2019-01-23 7:00:00 -0400
+permalink: /KROC2019
+categories: publications
+tags: CLIK
+excerpt: This article has been accepted on KROC 2019
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/02/20190221_030023.pdf
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/kroc1.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/kroc1.png
+
+sourcecode: 
+---
+
+### Abstact 
+폐루프 역기구학은 말단 장치의 추종 오차를 고려한 수치적 역기구학 방법이다. 폐루프 역기구학은 관절 궤적 생성기로
+사용되지만, 일부 학술 자료에서는 되먹임 항에 로봇 상태를 반영하여 제어기로 사용한다. 본 논문에서는 두 알고리즘의
+제어 성능을 비교하고 각 한계점을 파악한다. 알고리즘의 적용에는 7자유도 매니퓰레이터를 이용해 이루어졌다.
+
+### PDF 
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/02/20190221_030023.pdf) 

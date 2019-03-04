@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Whole-body control for nonholonomic mobile manipulator using Hierarchical Quadratic Programming and Continuous Task Tranasition
-author: Sanghyun Kim, K. Jang, S. Park, Y. Lee, S. Lee, and J.Park
+author: Sanghyun Kim, K. Jang, S. Park, Y. Lee, S. Lee, and J. Park
 name: IEEE Interantional Conference on Advanced Robotics & Mechatronics
 state: under-review
 year: 2019
