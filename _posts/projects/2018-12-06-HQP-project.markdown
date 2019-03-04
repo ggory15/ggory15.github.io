@@ -44,7 +44,7 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
     </div>
 </div>
 + Controller
-	- Wholebody controller based on the HQP controller
+	- Wholebody controller based on the HQP controller.
 	- Task transition algorithm for the HQP frameworks (with Joint limit, singularity, and obstacle avoidance algorithm) 
 	- Momentum based observer
 
@@ -56,13 +56,14 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 <div class="row projects-display">
     <div class="six columns images">
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/atcX-sf4098" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/FyiSZ1lomSs" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 
     <div class="six columns">
         <h5> Task Transition Algorithm </h5>
         <li> See also <a href="{{ site.url}}/tasktransition-project"> Transition Project </a> </li>
+        <li> See also <a href="{{site.url}}/mobile-project"> Related Papers </a> </li>
         </div>
 </div>
 
@@ -106,9 +107,9 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JkTF-9RKoDM" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-
-
 </div>
+
+
 
 ### TODO
 + Dual Arm Manipulation

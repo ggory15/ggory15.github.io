@@ -1,0 +1,19 @@
+---
+published: true
+layout: post
+title: US, CN, and EU Patents
+author: Sanghyun Kim et al
+name: Automatic cardiopulmonary resuscitation device and control method therefor
+state: No. 20190029919A1 (US Patent), No. 108697572A (CN Patent), No. 3409258A1 (EU Patent)
+year: 2019
+vol: 
+issue: 
+pp: 
+type: Patent
+date:   2014-01-03 7:00:00 -0400
+permalink: /patent3
+categories: publications
+tags:  CPR
+
+---
+

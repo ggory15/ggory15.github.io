@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: Approximate Friction and Gravity Compensation in Haptic Laparoscopic Surgery Simulator
+author: Sanghyun Kim, C. Lee, J. Kim, and J. Ryu
+name: Transactions of Korean Society of Mechanical Engineers (KSME)
+state: accepted
+year: 2010
+vol: 35
+issue: 8
+pp: 
+type: Domestic_journal
+date:   2010-01-01 7:00:00 -0400
+permalink: /KSME2010
+categories: publications
+tags:  friction
+
+---
+
+

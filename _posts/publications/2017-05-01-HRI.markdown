@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: HRI 연구 동향 - 작업 수행을 위한 로봇 사용자 인터페이스를 중심으로
-author: Joonhyung Kimg, Sanghyun Kim, and J.Park
+author: J. Kim, Sanghyun Kim, and J.Park
 name: 로봇과 인간
 state: accepted
 year: 2017

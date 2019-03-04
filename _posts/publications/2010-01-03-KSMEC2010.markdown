@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: Trocar Friction modelling for Friction and gravity Compensation
+author: Sanghyun Kim, C. Lee, J. Kim, and J. Ryu
+name: Conference on Korean Society of Mechanical Engineers (KSME)
+state: accepted
+year: 2010
+vol: 
+issue: 
+pp: 
+type: Domestic_conference
+date:   2010-01-03 7:00:00 -0400
+permalink: /KSMEC2010-2
+categories: publications
+tags:  friction
+
+---
+
+

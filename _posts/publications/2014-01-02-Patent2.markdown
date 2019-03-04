@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: Korea Patent
+author: Sanghyun Kim et al
+name: APPARATUS FOR AUTOMATIC CARDIOVASCULAR PULMONARYRESCITATION
+state: No. 10-2016-0172286
+year: 2016
+vol: 
+issue: 
+pp: 
+type: Patent
+date:   2014-01-02 7:00:00 -0400
+permalink: /patent2
+categories: publications
+tags:  CPR
+
+---
+
+
