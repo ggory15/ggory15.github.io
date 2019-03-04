@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Real-Time Self-Collision Avoidance Using Attractive Force for Differentially Driven Mobile Manipulators  
 author: K. Jang, Sanghyun Kim, S. Park, S. Kim, and J.Park
-name: IEEE/RSJ Interantional Conference on Robotics and System (IROS). 
+name: IEEE/RSJ Interantional Conference on Robotics and System (IROS)
 state: under-review
 year: 2019
 # vol: 4
@@ -56,10 +56,10 @@ PDF will be uploaded after acceptance on the conference.
 <div class="row projects-display">
     <div class="twelve columns images">
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/FyiSZ1lomSs" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/mmCaNhBVcMQ" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
 
 ### See More
-Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**IROS 2019**]({{ site.url}}/IROS2019).
+Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**ARM 2019**]({{ site.url}}/mobile-project).
