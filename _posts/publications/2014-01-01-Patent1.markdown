@@ -11,7 +11,7 @@ issue:
 pp: 
 type: Patent
 date:   2014-01-02 7:00:00 -0400
-permalink: /patent2
+permalink: /patent1
 categories: publications
 tags:  Robot_Hand, EMG
 
