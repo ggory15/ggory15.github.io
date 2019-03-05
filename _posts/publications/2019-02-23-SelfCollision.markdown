@@ -11,7 +11,7 @@ year: 2019
 # issue: 2
 type: International_conference
 date:   2019-02-23 7:00:00 -0400
-permalink: /IROS2019
+permalink: /mobile-project
 categories: publications
 tags: mobile, HQP
 excerpt: This article has been summited on IROS 2019
@@ -62,4 +62,4 @@ PDF will be uploaded after acceptance on the conference.
 </div>
 
 ### See More
-Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**ARM 2019**]({{ site.url}}/mobile-project).
+Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**ARM 2019**]({{ site.url}}/ARM2019).
