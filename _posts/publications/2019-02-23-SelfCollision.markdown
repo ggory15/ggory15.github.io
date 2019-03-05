@@ -56,7 +56,7 @@ PDF will be uploaded after acceptance on the conference.
 <div class="row projects-display">
     <div class="twelve columns images">
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/mmCaNhBVcMQ" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jycTtF8t6c8" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
