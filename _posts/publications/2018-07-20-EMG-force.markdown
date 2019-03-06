@@ -5,7 +5,7 @@ title: Grasping Force Estimation by sEMG Signals and Arm Posture
 author: Sanghyun Kim, J. Kim, M. Kim, S. Kim, and J.Park
 name: Journal of Bionic Engineering
 state: Conditinally accepted
-year: 2018
+year: 2019
 type: International_journal
 date:   2019-03-06 7:00:00 -0400
 permalink: /EMG-Force
