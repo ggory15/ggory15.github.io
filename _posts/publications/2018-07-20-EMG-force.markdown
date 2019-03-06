@@ -1,17 +1,17 @@
 ---
 published: true
 layout: post
-title: Grasping Force Estimation by sEMG Signals and Arm Posture- Tensor Decomposition Based Approach
+title: Grasping Force Estimation by sEMG Signals and Arm Posture
 author: Sanghyun Kim, J. Kim, M. Kim, S. Kim, and J.Park
 name: Journal of Bionic Engineering
-state: Under Review
+state: Conditinally accepted
 year: 2018
 type: International_journal
-date:   2018-07-20 7:00:00 -0400
+date:   2019-03-06 7:00:00 -0400
 permalink: /EMG-Force
 categories: publications
 tags: Robot_Hand, EMG
-excerpt: This article is summitted in Journal of Bionic Engineering. 
+excerpt: This article has been accepted in Journal of Bionic Engineering. Thank you for all co-authors.
 github: https://github.com/ggory15/EMG_Tensor
 
 image:  /assets/img/post-images/slider-images/Bionic20181.png
