@@ -11,7 +11,7 @@ date:   2019-03-06 7:00:00 -0400
 permalink: /EMG-Force
 categories: publications
 tags: Robot_Hand, EMG
-excerpt: This article has been accepted in Journal of Bionic Engineering. Thank you for all co-authors.
+excerpt: This article has been accepted in Journal of Bionic Engineering. Thanks for all co-authors.
 github: https://github.com/ggory15/EMG_Tensor
 
 image:  /assets/img/post-images/slider-images/Bionic20181.png
