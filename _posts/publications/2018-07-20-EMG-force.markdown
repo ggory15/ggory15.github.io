@@ -1,19 +1,20 @@
 ---
 published: true
 layout: post
-title: Grasping Force Estimation by sEMG Signals and Arm Posture
+title: Grasping Force Estimation by sEMG Signals and Arm Posture- Tensor Decomposition Approach
 author: Sanghyun Kim, J. Kim, M. Kim, S. Kim, and J.Park
 name: Journal of Bionic Engineering
-state: Conditinally accepted
+state: accepted
 year: 2019
 type: International_journal
 date:   2019-03-06 7:00:00 -0400
 permalink: /EMG-Force
 categories: publications
 tags: Robot_Hand, EMG
-excerpt: This article has been accepted in Journal of Bionic Engineering. Thanks for all co-authors.
+excerpt: This article has been accepted in Journal of Bionic Engineering.
 github: https://github.com/ggory15/EMG_Tensor
 
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/03/20190314_095350.pdf
 image:  /assets/img/post-images/slider-images/Bionic20181.png
 imageAlt: HQP logo
 image-slider: /assets/img/post-images/slider-images/Bionic20181.png
@@ -21,22 +22,10 @@ image-slider: /assets/img/post-images/slider-images/Bionic20181.png
 ---
 
 ### Abstact 
-Grasping force estimation using surface Electromyography(sEMG) has been actively investigated because
-it can provide manipulability and dexterity to a prosthetic hand and a robot hand. Most of the current works in
-this area focused only on finding the relationship between sEMG signals and grasping force without consider-
-ing arm postures. Therefore, regression models of these studies are not suitable for predicting grip force in vari-
-ous arm postures. In this paper, it is investigated how grasping force can be predicted from sEMG signals and
-various grasping postures. The proposed algorithm uses a tensor algebra to train a multi-factor model relevant
-to sEMG signals corresponding to various grasping forces and postures of the wrist and the forearm in multiple
-dimensions. The multi-factor model is then decomposed into the four independent factor spaces for the grasp-
-ing force, sEMG signals, wrist posture, and forearm posture. Moreover, when a participant takes a new posture,
-new factors for the wrist and forearm are interpolated in factor spaces. Thus, the grasping force with the various
-posture can be predicted by combining these factors. The effectiveness of the proposed method is verified
-through experiments with five healthy subjects, which demonstrate better performance on grasping force pre-
-diction than that of the multi variable regression algorithm.
+Grasping force estimation using surface Electromyography (sEMG) has been actively investigated as it can increase the manipulability and dexterity of prosthetic hands and robotic hands. Most of the current studies in this area only focus on finding the relationship between sEMG signals and the grasping force without considering the arm posture. Therefore, regression models are not suitable to predict grip forces in various arm postures. In this paper, a method to predict the grasping force from sEMG signals and various grasping postures is developed. The proposed algorithm uses a tensor algebra to train a multi-factor model relevant to sEMG signals corresponding to various grasping forces and postures of the wrist and forearm in multiple dimensions. The multi-factor model is then decomposed into the four independent fac-tor spaces of the grasping force, sEMG signals, wrist posture, and forearm posture. Moreover, when a participant exe-cutes a new posture, new factors for the wrist and forearm are interpolated in the factor spaces. Thus, the grasping force with various postures can be predicted by combining these factors. The effectiveness of the proposed method is verified through experiments with ten healthy subjects demonstrating higher performance of the grasping force prediction than the previous algorithm.
 
 ### PDF 
-If this paper is accepted, I will upload the pdf file.
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/03/20190314_095350.pdf) 
 
 ### Source Codes
 You can see the source codes in my [**git repository**](https://github.com/ggory15/EMG_Tensor).
