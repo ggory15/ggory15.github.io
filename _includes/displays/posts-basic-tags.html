@@ -18,7 +18,8 @@
 			</div>
 			{% else %}
 				<div class="post-display">
-				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, 
+				<h6 id="{{ tag_name | slugify }}">{{page.author}}, <em>{{ page.title }}</em>, {{page.name}},
+				{{ page.journal}}	
 				{% if page.vol != null %}
 					vol. {{page.vol}},	
 				{% endif %}
