@@ -4,27 +4,26 @@ layout: post
 title: Whole-body control for nonholonomic mobile manipulator using Hierarchical Quadratic Programming and Continuous Task Tranasition
 author: Sanghyun Kim, K. Jang, S. Park, Y. Lee, S. Lee, and J. Park
 name: IEEE Interantional Conference on Advanced Robotics & Mechatronics
-state: under-review
+state: accepted
 year: 2019
 # vol: 4
 # pp: 1603-1610
 # issue: 2
 type: International_conference
-date:   2019-02-22 7:00:00 -0400
+date:   2019-04-3- 7:00:00 -0400
 permalink: /ARM2019
 categories: publications
 tags: HQP, mobile
-excerpt: This article has been summited on ARM 2019
+excerpt: This article has been accepted on ARM 2019. Merci :) 
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
-#pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/01/revision.pdf
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root-1.pdf
 sourcecode: 
 
 image: /assets/img/post-images/slider-images/arm.png
 imageAlt: HQP logo
 image-slider: /assets/img/post-images/slider-images/arm.png
 
-pdf: #http://dyros.snu.ac.kr/wp-content/uploads/2018/07/IK_shortver-1.pdf
 sourcecode: 
 ---
 
@@ -49,8 +48,7 @@ base with the 7-DoFs robotic arm, and its performance was
 demonstrated during various experimental scenarios.
 
 ### PDF 
-<!-- [**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/01/revision.pdf) -->
-PDF will be uploaded after acceptance on the conference.
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root-1.pdf)
 
 ### Multimedias
 <div class="row projects-display">
