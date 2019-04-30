@@ -17,7 +17,7 @@ tags: HQP, mobile
 excerpt: This article has been accepted on ARM 2019. Merci :) 
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
-pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root-1.pdf
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf
 sourcecode: 
 
 image: /assets/img/post-images/slider-images/arm.png
@@ -48,7 +48,7 @@ base with the 7-DoFs robotic arm, and its performance was
 demonstrated during various experimental scenarios.
 
 ### PDF 
-[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root-1.pdf)
+[**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf)
 
 ### Multimedias
 <div class="row projects-display">
