@@ -38,7 +38,7 @@ Please wait a moment to load images
 					<div class="images">
 						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Narbonne/a-3.jpg">
 					</div>
-				</li>  2020-01-05-Sorrento
+				</li>  
 				</ul>
     </div>
 </div>

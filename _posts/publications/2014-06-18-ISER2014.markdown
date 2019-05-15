@@ -3,14 +3,14 @@ published: true
 layout: post
 title: Robot Hand Synergy Mapping Using Multi-factor Model and EMG signal
 author: Sanghyun Kim, M. Kim, J. Lee, and J. Park
-name: International Symposium on Experimental Robotics (ISER)
+name: Experimental Robotics with International Symposium on Experimental Robotics (ISER)
 state: accepted 
-year: 2014
+year: 2015
 vol: 
 issue: 
-pp: 
-type: International_conference
-date:   2014-06-18 7:00:00 -0400
+pp: 671-683
+type: International_journal
+date:   2015-06-18 7:00:00 -0400
 permalink: /ISER2014
 categories: publications
 tags:  Robot_Hand, Imitation

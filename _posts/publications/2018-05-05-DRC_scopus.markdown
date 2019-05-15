@@ -1,20 +1,20 @@
 ---
 published: true
 layout: post
-title: Team SNU's Control Strategies to Enhancing Robot's Capability- Lessons from the 2015 DARPA Robotics Challenge Finals 
+title: Team SNU's Control Strategies to Enhancing Robot's Capability- Lessons from the DARPA Robotics Challenge Finals 2015 
 author: Sanghyun Kim et al
-name: Journal of Field Robotics
+name: The DARPA Robotics Challenge Finals- Humanoid Robots to the Rescue
 state: accepted 
-year: 2017
-vol: 34
-pp: 359-380
-issue: 2
+year: 2018
+vol: 
+pp: 347-379
+issue: 
 type: International_journal
-date:   2017-03-01 7:00:00 -0400
-permalink: /FIELD2017
+date:   2018-04-01 7:00:00 -0400
+permalink: /DRC2018
 categories: publications
 tags: DRC_Finals, Humanoid
-excerpt: This article is accepted in Journal of Field Robotics. 
+excerpt: This article is accepted in Journal of The DARPA Robotics Challenge Finals- Humanoid Robots to the Rescue. 
 
 image: /assets/img/project-images/4.drc/main.jpg
 imageAlt: HQP logo
