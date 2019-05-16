@@ -3,13 +3,13 @@ published: true
 layout: post
 title: Application of Robot Manipulator for Cardiopulmonary Resuscitation
 author: J. Jung, J. Kim, Sanghyun Kim, W. Kwon, S. Na, K. Kim, G. Suh, B. Yoo, J. Choi, J. Lee, and J. Park
-name: Experimental Robotics with International Symposium on Experimental Robotics (ISER)
+name: International Symposium on Experimental Robotics (ISER)
 state: accepted 
 year: 2017
 vol: 
 issue: 
 pp: 266-274
-type: International_journal
+type: International_conference
 date:   2017-03-10 7:00:00 -0400
 permalink: /ISER2016
 categories: publications
