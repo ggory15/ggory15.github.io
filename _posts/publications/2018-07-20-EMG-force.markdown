@@ -7,7 +7,10 @@ name: Journal of Bionic Engineering
 state: accepted
 year: 2019
 type: International_journal
-date:   2019-03-06 7:00:00 -0400
+date:   2019-05-22 7:00:00 -0400
+vol: 16
+pp: 455-467
+issue: 3
 permalink: /EMG-Force
 categories: publications
 tags: Robot_Hand, EMG
