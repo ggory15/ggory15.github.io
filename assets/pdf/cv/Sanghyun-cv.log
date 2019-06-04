@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.4.17)  23 MAY 2019 02:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.4.26)  4 JUN 2019 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -244,7 +244,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (5.1705pt too wide) in paragraph at lines 373--380
+Overfull \hbox (5.1705pt too wide) in paragraph at lines 374--381
 []\OT1/cmr/m/n/10 [P1] \OT1/cmr/bx/n/10 Sanghyun Kim \OT1/cmr/m/it/10 et al\OT1
 /cmr/m/n/10 . AP-PA-RA-TUS FOR AU-TO-MATIC CAR-DIO-VAS-CU-LAR PUL-MONARY
  []
@@ -270,16 +270,16 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--521
+Underfull \hbox (badness 10000) in paragraph at lines 518--522
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 523.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 524.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 523.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 523.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 523.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 523.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 524.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 524.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 524.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 524.
  ) 
 Here is how much of TeX's memory you used:
  4981 strings out of 494953
@@ -297,7 +297,7 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive
 dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/symbols/msam10.pfb>
-Output written on Sanghyun-cv.pdf (6 pages, 135056 bytes).
+Output written on Sanghyun-cv.pdf (6 pages, 135127 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

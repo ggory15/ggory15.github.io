@@ -6,15 +6,12 @@ author: Sanghyun Kim, K. Jang, S. Park, Y. Lee, S. Lee, and J. Park
 name: IEEE Interantional Conference on Advanced Robotics & Mechatronics
 state: accepted
 year: 2019
-# vol: 4
-# pp: 1603-1610
-# issue: 2
 type: International_conference
-date:   2019-04-3- 7:00:00 -0400
+date:   2019-06-03 7:00:00 -0400
 permalink: /ARM2019
 categories: publications
 tags: HQP, mobile
-excerpt: This article has been accepted on ARM 2019. Merci :) 
+excerpt: This paper has been selected as a finalist for the Best Paper Award in ICARM 2019! 
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
 pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf
@@ -47,6 +44,20 @@ algorithm was implemented on the differentially driven mobile
 base with the 7-DoFs robotic arm, and its performance was
 demonstrated during various experimental scenarios.
 
+This paper has been selected as a finalist for the Best Paper Award in the conference!
+
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+	  			<li>
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post-images/slider-images/ICARM.png">
+					</div>
+        		</li>
+				</ul>
+    </div>
+</div>
+
 ### PDF 
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf)
 
@@ -61,3 +72,4 @@ demonstrated during various experimental scenarios.
 
 ### See More
 Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**IROS 2019**]({{ site.url}}/mobile-project) for the self-collision avoidance algorithm.
+
