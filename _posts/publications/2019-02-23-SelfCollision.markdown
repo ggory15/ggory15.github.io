@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: Real-Time Self-Collision Avoidance Using Attractive Force for Differentially Driven Mobile Manipulators  
 author: K. Jang, Sanghyun Kim, S. Park, S. Kim, and J. Park

@@ -44,9 +44,9 @@ algorithm was implemented on the differentially driven mobile
 base with the 7-DoFs robotic arm, and its performance was
 demonstrated during various experimental scenarios.
 
-This paper has been selected as a finalist for the Best Paper Award in the conference!
+This paper has been selected as the Best Conference Paper Award in the conference!
 
-<div class="row projects-display">
+<!-- <div class="row projects-display">
     <div class="flexslider">
         <ul class="slides">
 	  			<li>
@@ -56,7 +56,7 @@ This paper has been selected as a finalist for the Best Paper Award in the confe
         		</li>
 				</ul>
     </div>
-</div>
+</div> -->
 
 ### PDF 
 [**PDF file**](http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf)
@@ -70,6 +70,32 @@ This paper has been selected as a finalist for the Best Paper Award in the confe
     </div>
 </div>
 
+
+### Award
+<div class="row projects-display">
+    <div class="flexslider">
+        <ul class="slides">
+                <li>
+                    <div class="images">
+                        <img alt="JUCE" src="{{ site.url }}/assets/img/post-images/slider-images/ICARM.png">
+                    </div>   
+                </li>
+				<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Osaka/1-2.jpg">
+					</div>
+				</li>
+								<li>  
+					<div class="images">
+						<img alt="JUCE" src="{{ site.url }}/assets/img/post/Osaka/1-3.jpg">
+					</div>
+				</li>  
+				</ul>
+    </div>
+</div>
+
+
 ### See More
 Please Visit [**HQP project**]({{ site.url}}/HQP-project) and [**IROS 2019**]({{ site.url}}/mobile-project) for the self-collision avoidance algorithm.
 
+ 
