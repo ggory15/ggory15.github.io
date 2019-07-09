@@ -11,7 +11,7 @@ date:   2019-06-03 7:00:00 -0400
 permalink: /ARM2019
 categories: publications
 tags: HQP, mobile
-excerpt: This paper has been selected as a finalist for the Best Paper Award in ICARM 2019! 
+excerpt: We got the best conference paper award!
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
 pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf
