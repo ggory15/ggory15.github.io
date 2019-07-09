@@ -17,9 +17,9 @@ excerpt: We got the best conference paper award!
 pdf: http://dyros.snu.ac.kr/wp-content/uploads/2019/04/root_final.pdf
 sourcecode: 
 
-image: /assets/img/post-images/slider-images/arm.png
+image: /assets/img/post/Osaka/1-2.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/arm.png
+image-slider: /assets/img/post/Osaka/1-2.jpg
 
 sourcecode: 
 ---
