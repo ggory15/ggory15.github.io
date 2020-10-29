@@ -6,10 +6,10 @@ author: S. Hone, K. Jang, Sanghyun Kim, and J. Park
 name: IEEE/ASME Transactions on Mechatronics
 state: accepted
 year: 2020
-# vol: 4
-# pp: 1603-1610
-# issue: 2
-type: international_journal
+vol: 1
+pp: 1-12
+issue: 1
+type: International_journal
 date:   2020-10-01 7:00:00 -0400
 permalink: /TMECH2020
 categories: publications
