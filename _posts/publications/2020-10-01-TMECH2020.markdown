@@ -1,0 +1,34 @@
+---
+published: true
+layout: post
+title: Regularized Hierarchical Quadratic Program for Real-Time Whole-Body Motion Generation 
+author: S. Hone, K. Jang, Sanghyun Kim, and J. Park
+name: IEEE/ASME Transactions on Mechatronics
+state: accepted
+year: 2020
+# vol: 4
+# pp: 1603-1610
+# issue: 2
+type: international_journal
+date:   2020-10-01 7:00:00 -0400
+permalink: /TMECH2020
+categories: publications
+tags: HQP
+excerpt: This article has been accepted on TMECH
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9234037
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/kroc2020.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/kroc2020.png
+
+sourcecode: 
+---
+
+### Abstact 
+The goal of this study is to find an optimal and robust solution for on-line hierarchical least-squares optimization subject to both equality and inequality constraints. We focus on the reasoning about the task regularization to ensure the convergence and robustness of a solution in the face a singularity. The mixed problem of a regularization and inequality-constrained hierarchical optimization is not fully discussed due to the mathematical complexity. We address this problem by formulating a regularized hierarchical quadratic programming. The solution is obtained in a unified and computationally efficient manner by leveraging a singular value decomposition and an active set method. At the same time, we concentrate on the realization of the proposed algorithm as a practical means of real-time whole-body motion generation. The effectiveness of the algorithm is validated through extensive numerical simulations and experimental tests of a rescue robot successfully executing manipulation missions in a highly unstructured environment.
+
+### PDF 
+[**PDF file**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9234037) 
