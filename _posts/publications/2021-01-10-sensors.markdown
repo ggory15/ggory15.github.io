@@ -14,7 +14,7 @@ date:   2021-01-10 7:00:00 -0400
 permalink: /SENSORS2021
 categories: publications
 tags: HQP
-excerpt: This article has been accepted on TMECH
+excerpt: This article has been accepted on Sensors
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
 pdf: https://www.mdpi.com/1424-8220/21/3/890
