@@ -3,11 +3,10 @@ published: true
 layout: post
 title: Reactive Self-Collision Avoidance for a Differentially Driven Mobile Manipulator 
 author: K. Jang, Sanghyun Kim, and J. Park
-name: IEEE/ASME Transactions on Mechatronics
+name: Sensors
 state: accepted
 year: 2021
 vol: 21
-pp: 1-12
 issue: 3
 type: International_journal
 date:   2021-01-10 7:00:00 -0400
