@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Regularized Hierarchical Quadratic Program for Real-Time Whole-Body Motion Generation 
-author: S. Hone, K. Jang, Sanghyun Kim, and J. Park
+author: S. Hong, K. Jang, Sanghyun Kim, and J. Park
 name: IEEE/ASME Transactions on Mechatronics
 state: accepted
 year: 2020
