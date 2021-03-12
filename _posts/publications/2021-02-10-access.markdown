@@ -1,0 +1,33 @@
+---
+published: true
+layout: post
+title: A Whole-body Control Framework based on the Operational Space Formulation under Inequality Constraints via Task-oriented Optimisation
+author: Y. Lee, Sanghyun Kim, J. Park, N. Tsagarakis, and Jinoh Lee
+name: IEEE Access
+state: accepted
+year: 2021
+vol: 1
+issue: 1
+type: International_journal
+date:   2021-03-10 7:00:00 -0400
+permalink: /ACCESS2021
+categories: publications
+tags: HQP
+excerpt: This article has been accepted on IEEE Access
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+pdf: https://www.mdpi.com/1424-8220/21/3/890
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/kroc2020.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/kroc2020.png
+
+sourcecode: 
+---
+
+### Abstact 
+- This paper presents practical enhancements of the operational space formulation (OSF) toexploit inequality constraints for whole-body control of a high degree of freedom robot with a floating baseand multiple contacts, such as humanoids. A task-oriented optimisation method is developed to obtain afeasible torque resolution solely for task variables based on the OSF, which effectively reduces the numberof optimisation variables. Interestingly, the proposed scheme amends assigned tasks on demand of satisfyinginequality conditions, while dynamic consistency among contact-constrained tasks is preserved. In addition,we propose an efficient algorithm structure ameliorating real-time control capability which has been a majorhurdle  to  transplant  optimisation  methods  into  the  OSF-based  whole-body  control  framework.  Controlperformance, the feasibility of the optimised solution, and the computation time of the proposed controlframework are verified through realistic dynamic simulations of a humanoid. We also clarify the pros andcons of the proposed method compared with existing optimisation-based ones, which may offer an insightfor practical control engineers to select whole-body controllers necessitated from the desired application.
+
+### PDF 
+[**PDF file**](https://ieeexplore.ieee.org/document/9373346) 
