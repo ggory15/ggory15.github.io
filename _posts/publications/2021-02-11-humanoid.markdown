@@ -8,14 +8,14 @@ state: accepted
 year: 2021
 type: International_conference
 date:   2021-05-01 7:00:00 -0400
-permalink: /HUMANOID2020
+permalink: /HUMANOIDS2020
 categories: publications
-tags: HQP
+tags: Trajectory Optimization
 excerpt: This article has been accepted on the 2020 IEEE-RAS International Conference on Humanoid Robots
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
-pdf: -
-sourcecode: 
+pdf: http://dyros.snu.ac.kr/wp-content/uploads/2018/07/IK_shortver-1.pdf
+#sourcecode: 
 
 image: /assets/img/post-images/slider-images/humanoid2020.png
 imageAlt: HQP logo
