@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.1.12)  12 MAR 2021 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.4.26)  3 MAY 2021 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -250,22 +250,22 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 555.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 557.
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--555
+Underfull \hbox (badness 10000) in paragraph at lines 550--557
 
  []
 
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 555.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 555.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 555.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 555.
+[6] [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 557.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 557.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 557.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 557.
  ) 
 Here is how much of TeX's memory you used:
- 4901 strings out of 492982
- 72405 string characters out of 6134896
- 163086 words of memory out of 5000000
+ 4902 strings out of 492982
+ 72411 string characters out of 6134896
+ 163087 words of memory out of 5000000
  8461 multiletter control sequences out of 15000+600000
  7258 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -278,10 +278,10 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive
 dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/symbols/msam10.pfb>
-Output written on Sanghyun-cv.pdf (6 pages, 135876 bytes).
+Output written on Sanghyun-cv.pdf (7 pages, 136468 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
