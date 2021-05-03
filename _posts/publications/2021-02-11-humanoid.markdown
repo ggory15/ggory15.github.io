@@ -1,0 +1,32 @@
+---
+published: true
+layout: post
+title: Multi-Fidelity Receding Horizon Planning for Multi-Contact Locomotion
+author: J. Wang, Sanghyun Kim, S. Vijayakumar and S. Tonneau
+name: The 2020 IEEE-RAS International Conference on Humanoid Robots
+state: accepted
+year: 2021
+vol: 
+issue: 
+type: International_conference
+date:   2021-05-01 7:00:00 -0400
+permalink: /HUMANOID2020
+categories: publications
+tags: HQP
+excerpt: This article has been accepted on the 2020 IEEE-RAS International Conference on Humanoid Robots
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+pdf: -
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/humanoid2020.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/humanoid2020.png
+
+sourcecode: 
+---
+
+### Abstact 
+- When traversing uneven terrain, humans consider their future steps for choosing the best location and timing of their current step. Likewise, when planning multi-contact motions for legged robots, a ‘prediction horizon’ has to bevconsidered. However, planning several steps ahead increases the dimensionality and non-linearity of an already challenging problem, which makes online planning intractable. We propose to reduce the problem complexity by relaxing the model accuracy in the prediction horizon. We realize this idea within a Receding Horizon Planning (RHP) framework to plan dynamically consistent centroidal trajectories of legged robots. This gives rise to a novel formulation called RHP with multiple levels of model fidelity. We evaluate three candidate multi-fidelity RHPs with convex relaxations of the centroidal dynamics in the prediction horizon. The best candidate is 1.4x-3.0x (average 2.4x) faster than the traditional RHP that employs a single dynamics model over the entire look-ahead horizon. We also validate the resultant centroidal trajectories by tracking them with a whole-body inverse dynamics controller in simulation. Lastly, we find that having angular dynamics in the prediction horizon is important to the success of RHP.
+
+

@@ -19,9 +19,9 @@ excerpt: This article has been accepted on Sensors
 pdf: https://www.mdpi.com/1424-8220/21/3/890
 sourcecode: 
 
-image: /assets/img/post-images/slider-images/kroc2020.png
+image: /assets/img/post-images/slider-images/sensors2021.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/kroc2020.png
+image-slider: /assets/img/post-images/slider-images/sensors2021.png
 
 sourcecode: 
 ---

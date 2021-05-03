@@ -16,12 +16,12 @@ tags: HQP
 excerpt: This article has been accepted on IEEE Access
 #github: https://github.com/ggory15/HQP_DualArmMobile
 
-pdf: https://www.mdpi.com/1424-8220/21/3/890
+pdf: https://ieeexplore.ieee.org/document/9373346
 sourcecode: 
 
-image: /assets/img/post-images/slider-images/kroc2020.png
+image: /assets/img/post-images/slider-images/access2021.png
 imageAlt: HQP logo
-image-slider: /assets/img/post-images/slider-images/kroc2020.png
+image-slider: /assets/img/post-images/slider-images/access2021.png
 
 sourcecode: 
 ---
