@@ -6,8 +6,6 @@ author: J. Wang, Sanghyun Kim, S. Vijayakumar and S. Tonneau
 name: The 2020 IEEE-RAS International Conference on Humanoid Robots
 state: accepted
 year: 2021
-vol: 
-issue: 
 type: International_conference
 date:   2021-05-01 7:00:00 -0400
 permalink: /HUMANOID2020
