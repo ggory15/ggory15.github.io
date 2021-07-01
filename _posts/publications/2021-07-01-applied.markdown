@@ -1,0 +1,33 @@
+---
+published: true
+layout: post
+title: Design of JET Humanoid Robot with Compliant Modular Actuators for Industrial and Service Applications
+author: J. Sim, S. Kim, S. Park, Sanghyun Kim, and J. Park
+name: Applied Sciences
+state: accepted
+year: 2021
+vol: 1
+issue: 1
+type: International_journal
+date:   2021-07-01 7:00:00 -0400
+permalink: /JET2021
+categories: publications
+tags: HQP
+excerpt: This article has been accepted on Applied Sciences
+#github: https://github.com/ggory15/HQP_DualArmMobile
+
+pdf: https://ieeexplore.ieee.org/document/9373346
+sourcecode: 
+
+image: /assets/img/post-images/slider-images/access2021.png
+imageAlt: HQP logo
+image-slider: /assets/img/post-images/slider-images/access2021.png
+
+sourcecode: 
+---
+
+### Abstact 
+- 
+
+### PDF 
+[**PDF file**](https://ieeexplore.ieee.org/document/9373346) 
